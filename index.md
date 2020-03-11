@@ -1,67 +1,31 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jose Ramon's CV
 ---
 # Jose Ramon Aleman
 Software Engineer
 
 <div id="webaddress">
   <a href="#">(xxx)yyy-zzzz</a> 
-| <a href="#">email@address.com</a>
-| <a href="http://jraleman.com">https://jraleman.com</a>
+ | <a href="#">email@address.com</a>
+  <a href="http://jraleman.com">https://jraleman.com</a>
 </div>
 
-## Currently
+## Objective
 
 Standing on the shoulders of giants
 
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
+## Experience
 
 `June 1661 - now`
 __Trinity College, Cambridge__
-
 - Sizar
 
 `1667 - death`
 __Trinity College, Cambridge__
-
 - Fellow
 
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
+## Education
 
 `1600`
 __Royal Mint__, London
@@ -72,10 +36,29 @@ __Royal Mint__, London
 `1600`
 __Lucasian professor of Mathematics__, Cambridge University
 
+## Skills
 
+```
+- How does this look?
+```
+
+## Awards
+
+`2012`
+President, *Royal Society*, London, UK
+
+Associate, *French Academy of Science*, Paris, France
+
+### Languages
+
+`1669`
+Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+
+`1669`
+Lectiones opticæ.
+
+etc. etc. etc.
 
 <!-- ### Footer
 
 Last updated: March 2020 -->
-
-
