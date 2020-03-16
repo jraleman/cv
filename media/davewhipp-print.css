@@ -49,7 +49,21 @@ table {
 
 /* end of reset */
 
+blockquote, q {
+	padding-left: 6.25%;
+}
 
+blockquote p {
+	padding-bottom: 0.125rem;
+}
+
+em {
+	display: block;
+}
+
+h2 {
+	left: -4%;
+}
 
 body {
 	font: normal normal 400;
@@ -57,13 +71,11 @@ body {
 	line-height: 1.35em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Avenir,Verdana,sans-serif;
-	/*margin-top: 1em;
-	margin-left: 1em;*/
 }
 
 p {
 	position: relative;
-	left: 25%;
+	left: 20%;
 	margin-bottom: 0.2em;
 	margin-right: 0;
 	width: 60%;
@@ -72,7 +84,6 @@ p {
 code {
 	font: normal normal;
 	font-size: 90%;
-	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	color: #ccc;
 }
@@ -89,7 +100,6 @@ ul {
 	left: 25%;
 	width: 75%;
 	margin-bottom: 1em;
-	/*margin-top: -0.5em;*/
 }
 
 /*uncomment to get dashes in the list*/
@@ -103,7 +113,6 @@ li {
 	/*second line indent*/
 	padding-left: 1.25em;
 	text-indent: -1.25em;
-	/*color: #777;*/
 }
 
 li ul {
@@ -124,7 +133,7 @@ h1 {
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: 25%;
+	left: 20%;
 }
 
 h1+p {
@@ -135,28 +144,26 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #a00;
+	color: #4468b1;
 	margin-top: 2em;
 	position: relative;
 	top: 1.2em;
 	text-align: right;
 	width: 20%;
+	text-transform: uppercase;
 }
-
 
 h3 {
 	font-size: 1em;
 	line-height: 2em;
-	color: #ccc;
 	position: relative;
-	top: 1.6em;
+	top: 1.5em;
 	text-align: right;
 	width: 20%;
 }
 
 a {
 	color: inherit;
-	text-decoration:none
 }
 
 a:hover {
@@ -167,7 +174,7 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
-	color: #ccc;
+	color: #4468b1;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 90%;
 }
@@ -177,7 +184,7 @@ a:hover {
 }
 
 em {
-	font-style: normal;
+	font-style: italic;
 	color: #2d4e5e
 }
 
@@ -185,10 +192,6 @@ strong {
 	font-weight: bold;
 }
 
-#ghbutton {
+#address {
 	display: none;
-	visibility: hidden;
 }
-
-
-
