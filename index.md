@@ -135,7 +135,7 @@ __-__ JavaScript, TypeScript, HTML5, CSS3, Python, C, C++, x86 Assembly
 
 __-__ React, React Native, Node.js, Express, MongoDB, Apollo, GraphQL
 
-__-__ Linux, Git, Bash, Shell Scripting\
+__-__ Linux, Git, Bash, AWS, Docker
 
 __-__ AutoCAD, EagleCAD
 
