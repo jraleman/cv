@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Jose Ramon's CV
+title: jraleman
 ---
 
 # Jose Ramon Aleman
@@ -77,7 +77,7 @@ __Courious__ *(Mobile App Developer)*
 > ▘ Developed multiple functionalities (adding orders, setting routes, and
   tracking mileage) within the application.
 
-<!-- Lain University
+<!-- Latin University
 -------------------->
 `Jun 2015 – Sep 2015`
 __Latin University of Panama__ *(Teacher Assistant)*
