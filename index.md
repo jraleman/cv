@@ -101,11 +101,15 @@ shut-downs.
 `Jan 2011 – Jun 2011`
 __Electricidad Total__ *(Electrician Assistant)*
 
-> ▘ Assisted with the installation of electrical systems.
+> ▘ Assisted with the installation of residential and commercial electrical systems.
 
-> ▘ Electrical wiring of cabling and associated devices such as switches,
-distribution boards, sockets. Interpretation of electrical plans, including
-residential and commercial.
+> ▘ Working knowledge of job site safety as well as ability to complete a company specific safety orientation.
+
+> ▘ Understanding of schematic diagrams, blueprints and other specifications
+required for the installation of electrical cabling and associated devices
+such as switches, distribution boards, sockets.
+
+> ▘ Experience working with hand tools, power tool and electronic test equipment.
 
 ## Education
 
