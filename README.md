@@ -1,4 +1,4 @@
-# CV
+# Curriculum Vitae
 
 Started as a fork from [Elipapa's markdown-cv](https://github.com/elipapa/markdown-cv/).
 This is a curriculum vitae maintained in markdown and rendered to HTML and PDF using CSS.
@@ -8,7 +8,7 @@ or [go here](http://elipapa.github.io/markdown-cv/).
 
 ## Demo
 
-A live preview can be [accessed here](https://jraleman.com/cv-fe-cloud).
+A live preview can be [accessed here](https://jraleman.com/cv).
 
 ### License
 
