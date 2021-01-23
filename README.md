@@ -8,8 +8,8 @@ or [go here](http://elipapa.github.io/markdown-cv/).
 
 ## Demo
 
-A live preview can be [accessed here](https://jraleman.com/).
+A live preview can be [accessed here](https://jraleman.com/cv-fe-cloud).
 
 ### License
 
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
+[MIT License](https://github.com/jraleman/cv-fe-cloud/blob/master/LICENSE)
