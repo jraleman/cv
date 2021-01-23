@@ -2,7 +2,7 @@
 layout: cv
 title: jraleman
 ---
-<!-- Last updated: March 2020 -->
+<!-- Last updated: January 2021 -->
 
 # Jose Ramon Aleman
 
@@ -70,6 +70,7 @@ Location: Palo Alto, California, United States
 ------------>
 `Apr 2018 – Mar 2020` (2 years)
 __Vemidoc__ *(Lead Software Engineer)* - Contractor
+Location: Palo Alto, California, United States
 
 - Complete code base conversion to React Native with feature parity.
 - Recruited, trained and provided mentorship to team members in technical areas and monitored their performance.
@@ -84,6 +85,7 @@ __Vemidoc__ *(Lead Software Engineer)* - Contractor
 ------------------>
 `Apr 2016 – Mar 2019` (3 years, 3 months)
 __Scarlet Bytes__ *(Founder and Enterprise Architect)* - Self-employed
+Location: Panama City, Panama, Panama
 
 - Developed custom web application and client-driven solutions.
 - Expertise in all phases of application development, planning, diagrams, database design, user interfaces, versioning, costs, implementation and deployment, accomplish to regulations, maintenance.
@@ -155,30 +157,31 @@ __Panamerican School__, Panama
 
 ## Skills
 
+### Tools & Technologies
 __-__ JavaScript, TypeScript, HTML5, CSS3, Python, C, C++, x86 Assembly
-
 __-__ React, React Native, Node.js, Express, MongoDB, Apollo, GraphQL
-
 __-__ Linux, Git, Bash, AWS, Docker
 
+### Interpersonal Skills
+__-__ Teamwork, Problem-solving, Creativity, Determination, Autodidact, Listening and Mentoring
+
+### Other Skills 
+__-__ Mobile Applications, Pneumatics, Circuit Analysis
 __-__ AutoCAD, EagleCAD
-
 __-__ PLC, including Allen-Bradley, Pneumatics
-
 __-__ ARM, ARC processors
-
 __-__ Arduino, Picaxe, Raspberry Pi
 
 ## Awards
-
-`2016`
-__Space Apps Challenge (an initiative of NASA)__
-- First place in National Level to represent Panama at the International level.
 
 `2018`
 __Baidu Facemoji Keyboard__
 - Best foodie design challenge winner.
 
+`2016`
+__Space Apps Challenge (initiative by NASA)__
+- First place in National Level to represent Panama at the International level.
+
 ## Languages
 
-__English, Spanish, German, Japanese__
+__Excellent 🇬🇧 English and 🇪🇸 Spanish. Basic 🇩🇪 German, 🇮🇹 Italian, 🇯🇵 Japanese__
