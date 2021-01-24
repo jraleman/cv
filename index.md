@@ -2,7 +2,7 @@
 layout: cv
 title: jraleman
 ---
-<!-- Last updated: January 23th, 2021 -->
+<!-- Last updated: January 24th, 2021 -->
 
 # Jose Ramon Aleman B.
 
@@ -18,7 +18,7 @@ I'm Jose Ramon, an engineer originated from Panama, but currently living in the 
 Some of my areas of expertise include software engineering, frontend design, embedded systems, music, and many more! 
 Thinking in a logical and clear way has helped me during my academic and professional career, by being a problem-solver and someone who can be relied on.
 
-<hr/>
+_______________________________________________________________________________
 
 ## Experience
 
@@ -27,6 +27,7 @@ Thinking in a logical and clear way has helped me during my academic and profess
 __Axiad__
 `Mar 2020 - Present`
 _Full-time - Santa Clara, California (11 months)_
+![logo](media/images/axiad.jpg)
 
 > Experience with authentication techniques like Touch ID / Face ID and encryption of sensitive data using AES encryption.
 
@@ -57,6 +58,7 @@ _Full-time - Santa Clara, California (11 months)_
 __EasyWorking__
 `Mar 2019 – Feb 2021`
 _Self-employed - San Francisco Bay Area (2 years)_
+![logo](media/images/easyworking.jpeg)
 
 > Involved in Scrum planning and sprint reviews in Agile environment.
 
@@ -77,6 +79,7 @@ _Self-employed - San Francisco Bay Area (2 years)_
 __Opus1.io__
 `Jul 2019 – Feb 2020` 
 _Full-time - Palo Alto, California, (8 months)_
+![logo](media/images/opus1io.png)
 
 > Implemented stable React presentational components and containers, and stand-alone functions to be added to any future pages.
 
@@ -95,6 +98,7 @@ _Full-time - Palo Alto, California, (8 months)_
 __Vemidoc__
 `Apr 2018 – Mar 2020`
 _Contract - Palo Alto, California (2 years)_
+![logo](media/images/vemidoc.jpg)
 
 > Complete code base conversion to React Native with feature parity.
 
@@ -117,6 +121,7 @@ _Contract - Palo Alto, California (2 years)_
 __Scarlet Bytes__
 `Apr 2016 – Mar 2019`
 _Self-employed - Panama City, Panama (3 years, 3 months)_
+![logo](media/images/scarletbytes.png)
 
 > Developed custom web application and client-driven solutions.
 
@@ -137,6 +142,7 @@ _Self-employed - Panama City, Panama (3 years, 3 months)_
 __Courious__
 `Sep 2017 – Mar 2018`
 _Internship - Fremont, California (8 months)_
+![logo](media/images/courious.png)
 
 > Designed and developed an all-in-one tool to assist delivery guys.
 
@@ -153,6 +159,7 @@ _Internship - Fremont, California (8 months)_
 __Latin University of Panama__
 `Jun 2015 – Sep 2015`
 _Teacher Assistant - Panama City, Panama (4 months)_
+![logo](media/images/ulat.jpeg)
 
 > Robotics programming, design and fabrication of production fixtures.
 
@@ -169,6 +176,7 @@ _Teacher Assistant - Panama City, Panama (4 months)_
 __Electricidad Total__
 `Jan 2011 – Jun 2011`
 _Full-time - Panama City, Panama (6 months)_
+![placeholder](https://via.placeholder.com/100/0000FF/808080?Text=E)
 
 > Assisted with the installation of electrical systems.
 
@@ -182,31 +190,36 @@ such as switches, distribution boards, sockets.
 
 > Experience working with hand tools, power tool and electronic test equipment.
 
-<hr/>
+_______________________________________________________________________________
 
 ## Education
 
 `2016 – 2019`
 __42 Silicon Valley__, California
 - Certificate in Software Engineering
+![logo](media/images/42.png)
 
 `2015 – 2018`
 __Latin University of Panama__, Panama
 - Master of Business Administration (M.B.A.)
+![logo](media/images/ulat.jpeg)
 
 `2011 – 2015`
 __Latin University of Panama__, Panama
 - Mechatronics Engineering (B.Sc)
+![logo](media/images/ulat.jpeg)
 
 `2012 – 2014`
 __Music Academy of Panama__, Panama
 - Music Theory and Composition
+![logo](media/images/amp.png)
 
 `1997 – 2010`
 __Panamerican School__, Panama
 - High School Degree, Specialty in Science and Informatics
+![logo](media/images/pas.jpg)
 
-<hr/>
+_______________________________________________________________________________
 
 ## Skills
 
@@ -229,7 +242,7 @@ __Panamerican School__, Panama
 - ARM, ARC processors
 - Arduino, Picaxe, Raspberry Pi
 
-<hr/>
+_______________________________________________________________________________
 
 ## Awards
 
@@ -241,7 +254,7 @@ __Baidu Facemoji Keyboard__
 __Space Apps Challenge (initiative by NASA)__
 - First place in National Level to represent Panama at the International level.
 
-<hr/>
+_______________________________________________________________________________
 
 ## Languages
 
