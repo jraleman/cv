@@ -2,7 +2,6 @@
 layout: cv
 title: jraleman
 ---
-<!-- Last updated: January 24th, 2021 -->
 
 # Jose Ramon Aleman B.
 
@@ -173,7 +172,7 @@ _Teacher Assistant - Panama City, Panama (4 months)_
 
 ### Electrician Assistant
 
-![placeholder](https://via.placeholder.com/100/0000FF/808080)
+![placeholder](https://via.placeholder.com/100/afdde9/fefefe?text=E)
 __Electricidad Total__
 `Jan 2011 – Jun 2011`
 _Full-time - Panama City, Panama (6 months)_
@@ -196,27 +195,27 @@ _______________________________________________________________________________
 
 `2016 – 2019`
 ![logo](media/images/42.png)
-__42 Silicon Valley__, California
+__42 Silicon Valley 🇺🇸/🇫🇷__
 - Certificate in Software Engineering
 
 `2015 – 2018`
 ![logo](media/images/ulat.jpeg)
-__Latin University of Panama__, Panama
+__Latin University of Panama 🇵🇦__
 - Master of Business Administration (M.B.A.)
 
 `2011 – 2015`
 ![logo](media/images/ulat.jpeg)
-__Latin University of Panama__, Panama
+__Latin University of Panama 🇵🇦__
 - Mechatronics Engineering (B.Sc)
 
 `2012 – 2014`
 ![logo](media/images/amp.png)
-__Music Academy of Panama__, Panama
+__Music Academy of Panama 🇵🇦__
 - Music Theory and Composition
 
 `1997 – 2010`
 ![logo](media/images/pas.jpg)
-__Panamerican School__, Panama
+__Panamerican School 🇵🇦__
 - High School Degree, Specialty in Science and Informatics
 
 _______________________________________________________________________________
@@ -248,11 +247,11 @@ _______________________________________________________________________________
 
 `2018`
 __Baidu Facemoji Keyboard__
-- Best foodie design challenge winner.
+- ⌨️ Best foodie design challenge winner.
 
 `2016`
 __Space Apps Challenge (initiative by NASA)__
-- First place in National Level to represent Panama at the International level.
+- 👨‍🚀 First place in National Level to represent Panama at the International level.
 
 _______________________________________________________________________________
 
@@ -260,12 +259,12 @@ _______________________________________________________________________________
 
 ### Proficient
 
-- 🇬🇧 🇪🇸_English, Spanish_
+🇬🇧 🇪🇸_English, Spanish_
 
 ### Elementary
 
-- 🇩🇪_German_
+🇩🇪_German_
 
 ### Beginner
 
-- 🇮🇹 🇯🇵_Italian, Japanese_
+🇮🇹 🇯🇵_Italian, Japanese_
