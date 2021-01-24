@@ -1,9 +1,9 @@
 blockquote, q {
-	padding-left: 6.25%;
+	padding-left: 4.2%;
 }
 
 blockquote p {
-	padding-bottom: 0.125rem;
+	padding-bottom: 0.05rem;
 }
 
 em {
@@ -23,7 +23,7 @@ body {
 p {
 	position: relative;
 	left: 25%;
-	margin-bottom: 0.7em;
+	margin-bottom: 0.5em;
 	margin-right: 0;
 	width: 55%;
 }
@@ -47,15 +47,15 @@ ul {
 	position: relative;
 	left: 25%;
 	width: 75%;
-	margin-bottom: 1.5em;
-	margin-top: -0.5em;
+	margin-bottom: 0.75em;
+	margin-top: -0.25em;
 }
 
 /*uncomment to get dashes in the list*/
 li:before {
-	content: "-";
+	content: "›";
 	position: relative;
-	left: -0.25em;
+	left: -0.5em;
 }
 
 li {
@@ -94,13 +94,13 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #4468b1;
+	color: #8cb0ba;
 	margin-top: 2em;
 	position: relative;
 	top: 1.4em;
 	text-align: right;
 	width: 20%;
-  text-transform: uppercase;
+	text-transform: uppercase;
 }
 
 h3 {
@@ -118,14 +118,14 @@ a {
 }
 
 a:hover {
-	color:#39f
+	color:#afdde9;
 }
 
 #webaddress {
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
-	color: #4468b1;
+	color: #afdde9;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 100%;
 }
@@ -135,12 +135,14 @@ a:hover {
 }
 
 em {
-	/* font-weight: bold; */
+	font-weight: 500;
 	font-style: italic;
 }
 
 strong {
 	font-weight: bold;
+	vertical-align: top;
+	line-height: 48px;
 }
 
 #address {
@@ -149,10 +151,6 @@ strong {
 
 img {
 	width: 48px;
-    height: 48px;
+	height: 48px;
+	padding-right: 8px;
 }
-
-/*
-@media only screen and (max-width: 480px) {
-	make one column somehow...
-}*/
