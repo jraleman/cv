@@ -5,7 +5,7 @@ title: jraleman
 
 # Jose Ramon Aleman B.
 
-Frontend Cloud Software Engineer
+Full-Stack Software Engineer
 
 [(123) 456-7890](tel:123-456-7890)
 | [email@address.com](mailto:email@address.com)
@@ -13,9 +13,7 @@ Frontend Cloud Software Engineer
 
 ## About
 
-I'm Jose Ramon, an engineer originated from Panama, but currently living in the Bay Area, California.
-Some of my areas of expertise include software engineering, frontend design, embedded systems, music, and many more! 
-Thinking in a logical and clear way has helped me during my academic and professional career, by being a problem-solver and someone who can be relied on.
+I'm Jose Ramon, an engineer originated from Panama, but currently living in the Bay Area, California. Some of my areas of expertise include software engineering, frontend design, embedded systems, music, and many more! Thinking in a logical and clear way has helped me during my academic and professional career, by being a problem-solver and someone who can be relied on.
 
 _______________________________________________________________________________
 
@@ -227,6 +225,10 @@ _______________________________________________________________________________
 - JavaScript, TypeScript, HTML5, CSS3, Python, C, C++, x86 Assembly
 - React, React Native, Node.js, Express, MongoDB, Apollo, GraphQL
 - Linux, Git, Bash, AWS, Docker
+- AutoCAD, EagleCAD
+- PLC, including Allen-Bradley, Pneumatics
+- ARM, ARC processors
+- Arduino, Picaxe, Raspberry Pi
 
 ### Interpersonal Skills
 
@@ -234,12 +236,8 @@ _______________________________________________________________________________
 - Determination, Autodidact, Listening and Mentoring
 
 ### Other Skills 
-
 - Mobile Applications, Pneumatics, Circuit Analysis
-- AutoCAD, EagleCAD
-- PLC, including Allen-Bradley, Pneumatics
-- ARM, ARC processors
-- Arduino, Picaxe, Raspberry Pi
+- Completed Halo 2 in Legendary mode
 
 _______________________________________________________________________________
 
@@ -251,7 +249,11 @@ __Baidu Facemoji Keyboard__
 
 `2016`
 __Space Apps Challenge (initiative by NASA)__
-- 👨‍🚀 First place in National Level to represent Panama at the International level.
+- 👨‍🚀 1st place in National Level to represent Panama at the International level.
+
+`2008`
+__Tournament Winner - Call of Duty 4: Modern Warfare__
+- 🔫 1st place in a regional tornament, expo Atlapa fair 2008
 
 _______________________________________________________________________________
 
