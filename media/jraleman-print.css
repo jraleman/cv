@@ -1,67 +1,57 @@
 blockquote, q {
-	padding-left: 6.25%;
 }
 
 blockquote p {
-	padding-bottom: 0.125rem;
 }
 
 em {
 	display: block;
 }
 
-h2 {
-	left: -4%;
-}
-
 body {
 	font: normal normal 400;
-	font-size: 12pt;
-	line-height: 1.35em;
-	/*also written as...  font: normal normal 400 100%/1.5em;*/
+	font-size: 100%;
+	line-height: 1.5em;
 	font-family: Avenir,Verdana,sans-serif;
+	margin-top: 1em;
+	margin-left: 1em;
 }
 
 p {
 	position: relative;
-	left: 20%;
-	margin-bottom: 0.2em;
 	margin-right: 0;
-	width: 60%;
 }
 
 code {
 	font: normal normal;
 	font-size: 90%;
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	color: #ccc;
+	color: #aaa;
 }
 
 p code {
-	position: absolute;
-	text-align: right;
-	right: -20%;
+	vertical-align: top;
+	line-height: 24px;
 }
-
 
 ul {
 	position: relative;
-	left: 25%;
-	width: 75%;
-	margin-bottom: 1em;
+	margin-bottom: 0.75em;
+	margin-top: -0.25em;
 }
 
 /*uncomment to get dashes in the list*/
-/*li:before {
-	content: "-";
+li:before {
+	content: "›";
 	position: relative;
-	left: -0.25em;
-}*/
+	left: -0.5em;
+}
 
 li {
 	/*second line indent*/
 	padding-left: 1.25em;
 	text-indent: -1.25em;
+	/*color: #777;*/
 }
 
 li ul {
@@ -74,7 +64,6 @@ li ul {
 h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: Avenir,Cousine,Verdana,sans-serif;
-	width: 80%;
 }
 
 h1 {
@@ -82,7 +71,6 @@ h1 {
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: 20%;
 }
 
 h1+p {
@@ -93,39 +81,32 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #4468b1;
-	margin-top: 2em;
-	position: relative;
-	top: 1.2em;
-	text-align: right;
-	width: 20%;
+	color: #8cb0ba;
+	top: 1.4em;
 	text-transform: uppercase;
 }
 
 h3 {
 	font-size: 1em;
-	line-height: 2em;
-	position: relative;
-	top: 1.5em;
-	text-align: right;
-	width: 20%;
+	top: 1.7em;
 }
 
 a {
 	color: inherit;
+	text-decoration: none
 }
 
 a:hover {
-	color:#39f
+	color:#afdde9;
 }
 
 #webaddress {
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
-	color: #4468b1;
+	color: #afdde9;
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	font-size: 90%;
+	font-size: 100%;
 }
 
 #webaddress a {
@@ -133,14 +114,22 @@ a:hover {
 }
 
 em {
+	font-weight: 500;
 	font-style: italic;
-	color: #2d4e5e
 }
 
 strong {
 	font-weight: bold;
+	vertical-align: top;
+	line-height: 24px;
 }
 
 #address {
 	display: none;
+}
+
+img {
+	width: 24x;
+	height: 24px;
+	padding-right: 4px;
 }
