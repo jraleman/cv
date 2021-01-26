@@ -14,7 +14,6 @@ body {
 	font: normal normal 400;
 	font-size: 100%;
 	line-height: 1.5em;
-	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Avenir,Verdana,sans-serif;
 	margin-top: 1em;
 	margin-left: 1em;
@@ -31,7 +30,6 @@ p {
 code {
 	font: normal normal;
 	font-size: 90%;
-	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	color: #aaa;
 }
@@ -62,7 +60,6 @@ li {
 	/*second line indent*/
 	padding-left: 1.25em;
 	text-indent: -1.25em;
-	/*color: #777;*/
 }
 
 li ul {
@@ -121,19 +118,6 @@ a:hover {
 	color:#afdde9;
 }
 
-#webaddress {
-	margin-top: 1em;
-	position: relative;
-	left: 25%;
-	color: #afdde9;
-	font-family: Monaco,Menlo,monospace,sans-serif;
-	font-size: 100%;
-}
-
-#webaddress a {
-	text-decoration: none;
-}
-
 em {
 	font-weight: 500;
 	font-style: italic;
@@ -143,10 +127,6 @@ strong {
 	font-weight: bold;
 	vertical-align: top;
 	line-height: 48px;
-}
-
-#address {
-	display: none;
 }
 
 img {
