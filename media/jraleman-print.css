@@ -1,7 +1,10 @@
 blockquote, q {
+	font-size: 0.85em !important;
 }
 
-blockquote p {
+ul, li {
+	padding-left: 4em;
+	font-size: 0.95em;
 }
 
 em {
@@ -20,6 +23,7 @@ body {
 p {
 	position: relative;
 	margin-right: 0;
+	margin-left: 1.75em;
 }
 
 code {
@@ -84,11 +88,13 @@ h2 {
 	color: #8cb0ba;
 	top: 1.4em;
 	text-transform: uppercase;
+	margin-left: 1em;
 }
 
 h3 {
 	font-size: 1em;
 	top: 1.7em;
+	margin-left: 1.5em;
 }
 
 a {
@@ -98,19 +104,6 @@ a {
 
 a:hover {
 	color:#afdde9;
-}
-
-#webaddress {
-	margin-top: 1em;
-	position: relative;
-	left: 25%;
-	color: #afdde9;
-	font-family: Monaco,Menlo,monospace,sans-serif;
-	font-size: 100%;
-}
-
-#webaddress a {
-	text-decoration: none;
 }
 
 em {
@@ -124,12 +117,13 @@ strong {
 	line-height: 24px;
 }
 
-#address {
-	display: none;
-}
-
 img {
 	width: 24x;
 	height: 24px;
 	padding-right: 4px;
+}
+
+@media print {
+	@page { margin: 0; }
+	body { margin: 1.6cm; }
 }
