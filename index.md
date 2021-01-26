@@ -237,7 +237,10 @@ _______________________________________________________________________________
 
 ### Other Skills 
 - Mobile Applications, Pneumatics, Circuit Analysis
-- Completed Halo 2 in Legendary mode
+- Finish Halo 2 campaign in Legendary mode
+- Achieve Lv. 200 under a year in Phantasy Star Online: Blue Burst
+- Can complete Super Mario 64 in less than half an hour
+- Can suck-in and expand my belly 8 inches in total
 
 _______________________________________________________________________________
 
@@ -253,7 +256,7 @@ __Space Apps Challenge (initiative by NASA)__
 
 `2008`
 __Tournament Winner - Call of Duty 4: Modern Warfare__
-- 🔫 1st place in a regional tornament, expo Atlapa fair 2008
+- 🔫 1st place in a regional tornament, during an Expo 2008 at Atlapa Convention Center.
 
 _______________________________________________________________________________
 
