@@ -1,5 +1,6 @@
 blockquote, q {
 	font-size: 0.85em !important;
+	width: 95%;
 }
 
 ul, li {
@@ -24,6 +25,7 @@ p {
 	position: relative;
 	margin-right: 0;
 	margin-left: 1.75em;
+	font-size: 0.825em;
 }
 
 code {
@@ -36,11 +38,13 @@ code {
 p code {
 	vertical-align: top;
 	line-height: 24px;
+	position: absolute;
+    right: 2em;
 }
 
 ul {
 	position: relative;
-	margin-bottom: 0.75em;
+	margin-bottom: 0.125em;
 	margin-top: -0.25em;
 }
 
@@ -72,15 +76,21 @@ h1,h2,h3,h4 {
 
 h1 {
 	text-align: left;
-	font-size: 3em;
+	font-size: 2.25em;
 	line-height: 1em;
 	position: relative;
+	margin-bottom: 0.125em;
 }
 
 h1+p {
 	/*subtitle*/
 	font-style: italic;
-	font-size: 110%;
+	font-weight: 600;
+	color: #8cb0ba;
+}
+
+p a {
+	font-size: 0.85em;
 }
 
 h2 {
@@ -89,12 +99,16 @@ h2 {
 	top: 1.4em;
 	text-transform: uppercase;
 	margin-left: 1em;
+	margin-top: 0.75em;
+    margin-bottom: 0.25em;
 }
 
 h3 {
 	font-size: 1em;
 	top: 1.7em;
 	margin-left: 1.5em;
+	margin-top: 0.75em;
+	margin-bottom: 0.25em;
 }
 
 a {
@@ -121,9 +135,4 @@ img {
 	width: 24x;
 	height: 24px;
 	padding-right: 4px;
-}
-
-@media print {
-	@page { margin: 0; }
-	body { margin: 1.6cm; }
 }
