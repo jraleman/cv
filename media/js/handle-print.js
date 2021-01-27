@@ -1,27 +1,30 @@
-var handlePrint = function (e) {
-  function nextElement(el) {
-    do {
-      el = el.nextSibling;
-    } while (el && el.nodeType !== 1);
-    return el;
-  }
-  
-  function hideSection(id, delim) {
-    var section = document.getElementById(id);
-    section.style.display = 'none';
-    while (true) {
-      var el = nextElement(section);
-      if (!el || !el.nodeName || el.nodeName === delim) {
-        if (el && el.nodeName === delim) {
-          el.style.display = 'none';
-        }
-        break;
+// handle-print.js
+
+function nextElement(e) {
+  do {
+    e = e.nextSibling;
+  } while (e && e.nodeType !== 1);
+  return e;
+}
+
+function hideSection(id, delim) {
+  var element = document.getElementById(id);
+  element.style.display = 'none';
+  while (true) {
+    var e = nextElement(element);
+    if (!e || !e.nodeName || e.nodeName === delim) {
+      if (e && e.nodeName === delim) {
+        e.style.display = 'none';
       }
-      el.style.display = 'none';
-      section = el;
+      break;
     }
+    e.style.display = 'none';
+    element = e;
   }
-  
+}
+
+var handlePrint = function (e) {
+  // <hr />
   var delim = 'HR';
   // h1 === id
   hideSection("about", delim);
