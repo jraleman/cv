@@ -1,4 +1,4 @@
-var handlePrint = function() {
+var handlePrint = function (e) {
   function nextElement(el) {
     do {
       el = el.nextSibling;
@@ -12,7 +12,7 @@ var handlePrint = function() {
     while (true) {
       var el = nextElement(section);
       if (!el || !el.nodeName || el.nodeName === delim) {
-        if (el.nodeName === delim) {
+        if (el && el.nodeName === delim) {
           el.style.display = 'none';
         }
         break;
@@ -29,8 +29,10 @@ var handlePrint = function() {
   hideSection("languages", delim);
 }
 
-var returnToHome = function () {
-  window.location.replace("http://www.jraleman.com");
+var returnToHome = function (e) {
+  if (e && e.returnValue) {
+    window.location.replace("http://www.jraleman.com");
+  }
 }
 
 //for chrome
