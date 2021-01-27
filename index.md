@@ -22,7 +22,7 @@ _______________________________________________________________________________
 ### Software Engineer
 
 ![logo](media/images/axiad.jpg)
-__Axiad__
+[__Axiad__](https://www.axiad.com/){:target="_blank"}
 `Mar 2020 - Present`
 _Full-time - Santa Clara, California (11 months)_
 
@@ -53,7 +53,7 @@ _Full-time - Santa Clara, California (11 months)_
 ### Co-Founder & CTO
 
 ![logo](media/images/easyworking.jpeg)
-__EasyWorking__
+[__EasyWorking__](https://www.linkedin.com/company/easyworkingco/){:target="_blank"}
 `Mar 2019 – Feb 2021`
 _Self-employed - San Francisco Bay Area (2 years)_
 
@@ -74,7 +74,7 @@ _Self-employed - San Francisco Bay Area (2 years)_
 ### Frontend Software Engineer
 
 ![logo](media/images/opus1io.png)
-__Opus1.io__
+[__Opus1.io__](https://www.opus1.io){:target="_blank"}
 `Jul 2019 – Feb 2020` 
 _Full-time - Palo Alto, California, (8 months)_
 
@@ -93,7 +93,7 @@ _Full-time - Palo Alto, California, (8 months)_
 ### Lead Software Engineer
 
 ![logo](media/images/vemidoc.jpg)
-__Vemidoc__
+[__Vemidoc__](https://www.vemidoc.com){:target="_blank"}
 `Apr 2018 – Mar 2020`
 _Contract - Palo Alto, California (2 years)_
 
@@ -116,7 +116,7 @@ _Contract - Palo Alto, California (2 years)_
 ### Founder and Enterprise Architect
 
 ![logo](media/images/scarletbytes.png)
-__Scarlet Bytes__
+[__Scarlet Bytes__](https://www.scarletbytes.com){:target="_blank"}
 `Apr 2016 – Mar 2019`
 _Self-employed - Panama City, Panama (3 years, 3 months)_
 
@@ -137,7 +137,7 @@ _Self-employed - Panama City, Panama (3 years, 3 months)_
 ### Mobile Application Developer
 
 ![logo](media/images/courious.png)
-__Courious__
+[__Courious__](https://play.google.com/store/apps/details?id=com.couriousapp&hl=en_US&gl=US){:target="_blank"}
 `Sep 2017 – Mar 2018`
 _Internship - Fremont, California (8 months)_
 
@@ -154,7 +154,7 @@ _Internship - Fremont, California (8 months)_
 ### Teacher Assistant
 
 ![logo](media/images/ulat.jpeg)
-__Latin University of Panama__
+[__Latin University of Panama__](https://ulatina.edu.pa/){:target="_blank"}
 `Jun 2015 – Sep 2015`
 _Teacher Assistant - Panama City, Panama (4 months)_
 
@@ -170,7 +170,7 @@ _Teacher Assistant - Panama City, Panama (4 months)_
 
 ### Electrician Assistant
 
-![placeholder](https://via.placeholder.com/100/afdde9/fefefe?text=E)
+![placeholder](https://via.placeholder.com/100/afdde9/fefefe?text=E){:target="_blank"}
 __Electricidad Total__
 `Jan 2011 – Jun 2011`
 _Full-time - Panama City, Panama (6 months)_
@@ -193,27 +193,27 @@ _______________________________________________________________________________
 
 `2016 – 2019`
 ![logo](media/images/42.png)
-__42 Silicon Valley 🇺🇸/🇫🇷__
+[__42 Silicon Valley 🇺🇸/🇫🇷__](https://www.42.fr/en/){:target="_blank"}
 - Certificate in Software Engineering
 
 `2015 – 2018`
 ![logo](media/images/ulat.jpeg)
-__Latin University of Panama 🇵🇦__
+[__Latin University of Panama 🇵🇦__](https://ulatina.edu.pa/){:target="_blank"}
 - Master of Business Administration (M.B.A.)
 
 `2011 – 2015`
 ![logo](media/images/ulat.jpeg)
-__Latin University of Panama 🇵🇦__
+[__Latin University of Panama 🇵🇦__](https://ulatina.edu.pa/){:target="_blank"}
 - Mechatronics Engineering (B.Sc)
 
 `2012 – 2014`
 ![logo](media/images/amp.png)
-__Music Academy of Panama 🇵🇦__
+[__Music Academy of Panama 🇵🇦__](https://www.ampenlinea.com/){:target="_blank"}
 - Music Theory and Composition
 
 `1997 – 2010`
 ![logo](media/images/pas.jpg)
-__Panamerican School 🇵🇦__
+[__Panamerican School 🇵🇦__](http://panamericanschool-pa.net/index.php){:target="_blank"}
 - High School Degree, Specialty in Science and Informatics
 
 _______________________________________________________________________________
@@ -237,21 +237,20 @@ _______________________________________________________________________________
 
 ### Other Skills 
 - Mobile Applications, Pneumatics, Circuit Analysis
-- Finish Halo 2 campaign in Legendary mode
-- Achieve Lv. 200 under a year in Phantasy Star Online: Blue Burst
-- Can complete Super Mario 64 in less than half an hour
-- Can suck-in and expand my belly 8 inches in total
+- Finished Halo 2 campaign in Legendary mode
+- Achieved Lv. 200 under a year in Phantasy Star Online: Blue Burst
+- Completed Super Mario 64 in less than 20 minutes
 
 _______________________________________________________________________________
 
 ## Awards
 
 `2018`
-__Baidu Facemoji Keyboard__
+[__Baidu Facemoji Keyboard__](https://github.com/jraleman/Facemoji_Keyjam){:target="_blank"}
 - ⌨️ Best foodie design challenge winner.
 
 `2016`
-__Space Apps Challenge (initiative by NASA)__
+[__Space Apps Challenge (initiative by NASA)__](https://github.com/jraleman/marstronics){:target="_blank"}
 - 👨‍🚀 1st place in National Level to represent Panama at the International level.
 
 `2008`
