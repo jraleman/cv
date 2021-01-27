@@ -7,9 +7,9 @@ title: jraleman
 
 Full-Stack Software Engineer
 
-[(123) 456-7890](tel:123-456-7890)
-| [email@address.com](mailto:email@address.com)
-| [jraleman.com](https://jraleman.com)
+[📱 (123) 456-7890](tel:123-456-7890)
+· 📬 [email@address.com](mailto:email@address.com)
+· 🧳 [jraleman.com](https://jraleman.com)
 
 ## About
 
@@ -193,7 +193,7 @@ _______________________________________________________________________________
 
 `2016 – 2019`
 ![logo](media/images/42.png)
-[__42 Silicon Valley 🇺🇸/🇫🇷__](https://www.42.fr/en/){:target="_blank"}
+[__42 Silicon Valley 🇺🇸 🇫🇷__](https://www.42.fr/en/){:target="_blank"}
 - Certificate in Software Engineering
 
 `2015 – 2018`
