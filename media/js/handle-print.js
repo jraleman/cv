@@ -35,7 +35,7 @@ var returnToHome = function () {
 
 //for chrome
 window.matchMedia('print').addListener(function(mql) {
-    mql.matches ? handlePrint() : returnToHome();
+  mql.matches ? handlePrint() : returnToHome();
 });
 
 window.onbeforeprint = handlePrint;
