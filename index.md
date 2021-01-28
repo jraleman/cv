@@ -26,27 +26,29 @@ _______________________________________________________________________________
 `Mar 2020 - Present`
 _Full-time - Santa Clara, California (11 months)_
 
-> - Experience with authentication techniques like Touch ID / Face ID and encryption of sensitive data using AES encryption.
+> - Experience with authentication techniques (Touch/Face ID) and encryption of sensitive data using AES encryption.
 
-> - Successfully carried out web application vulnerability assessments and implemented security solutions for wide range clients.
+> - Successfully carried out application vulnerability assessments and implemented security solutions.
 
-> - Involved in designing the user experience interface UI/UX strategy, UI requirements, converting findings into UI designs.
+> - Involved in designing UI/UX strategies, requirements, converting findings into UI designs.
 
-> - Implemented client-side validations using JavaScript, and Frame Events using DOM.
+> - Implemented client-side validations using JavaScript, and range of use with different DOM Events.
 
-> - Developed client side drop down menus, search bars and drop down toggle
+> - Developed client-side search bars, filters, dropdown menus, toggles, modals, and others.
 
 > - Incorporated push notifications to keep the user informed of authentication prompts.
+
+> - Experience with Java language using Jetty and the Spring Framework.
 
 > - Worked with Continuous integration using Jenkins.
 
 > - Implemented AWS solutions using E2C, S3, RDS, EBS, Elastic Load Balancer, Auto-scaling groups.
 
-> - Configured Chef Cookbooks and wrote recipes in Ruby Script to install and configured Infrastructure across environments and automated the process using Python Script.
+> - Configured Chef Cookbooks and wrote recipes in Ruby to install and configure the infrastructure across environments and automated the process using Python Script.
 
-> - Knowledge in Virtualization technologies VMWare, Virtual box, for creating virtual machines and provisioning environments and in using Tomcat and Apache web servers for deployment and for hosting tools.
+> - Knowledge in Virtualization technologies (VirtualBox), creating virtual machines and provisioning environments.
 
-> - Used JIRA to keep track of bugs to reduce downtime, increase productivity, and Communication.
+> - Used JIRA to keep track of bugs to reduce downtime, increase productivity, and communication.
 
 > - Worked on accessibility related development using Aria standards.
 
@@ -61,15 +63,17 @@ _Self-employed - San Francisco Bay Area (2 years)_
 
 > - Planning and participating in business requirement for UI feasibility.
 
-> - Created policies, procedures, strategic and technology plans, and concept of operations for Startup Company.
+> - Created policies, procedures, strategic and technology plans, and concept of operations for the startup.
 
-> - Expertise in implementing the MVC architecture in backend applications Node.js along with Express JS.
+> - Expertise in implementing the MVC architecture in backend applications, Node.js along with Express JS.
 
-> - Use vue.js to perfectly capable of powering sophisticated Single-Page Applications when used in combination with modern tooling and supporting libraries.
+> - Used Vue.js to power a sophisticated Single-Page Application.
 
-> - Responsible for creating RESTFUL Web Services to serve data to the front-end application in JSON format
+> - Responsible for creating RESTFUL Web Services to serve data to the front-end application in JSON format.
 
-> - Experience in using tools like Docker Compose, Kubernetes, for Orchestrating and deploying the services related to the Containers and with container-based deployments using Docker, working with Docker images, Docker hub.
+> - Experience using Docker Compose, Kubernetes, for orchestrating and deploying services related to the containers.
+
+> - Cntainer-based deployments using Docker, working with Docker images, Docker hub.
 
 ### Frontend Software Engineer
 
@@ -78,17 +82,17 @@ _Self-employed - San Francisco Bay Area (2 years)_
 `Jul 2019 – Feb 2020` 
 _Full-time - Palo Alto, California, (8 months)_
 
-> - Implemented stable React presentational components and containers, and stand-alone functions to be added to any future pages.
+> - Implemented stable React.js components and containers, and stand-alone, helper functions for multiple pages.
 
-> - Experience in working with GraphQL queries, use Apollo GraphQL library. Building isomorphic applications using React and Redux with GraphQL on server side.
+> - Experience in working with GraphQL queries, use Apollo GraphQL library.
 
-> - Added dynamic functionality by creating, dispatching, and maintaining Action Creators that dispatch Actions by Redux.
+> - Building isomorphic applications using React.js and Redux with GraphQL on server-side.
 
-> - Used Middleware in application to retrieve data from Backend, and to also perform RESTful API web services calls for POST, PUT, DELETE and GET methods.
+> - Added dynamic functionality by creating, and maintaining Redux's action creators dispatchers.
 
-> - Worked with JEST unit test framework to write unit tests for JavaScript code, and Selenium Webdriver to write end-to-end (E2E) tests.
+> - Worked with JEST framework to write unit tests, and Selenium Webdriver to write end-to-end (E2E) tests.
 
-> - Configured Web pack to execute linters, magnifiers, pre/post-processors, tests, transpires, etc. based on build target.
+> - Configured Webpack to execute linters, magnifiers, pre/post-processors, tests, transpires, etc. based on build script.
 
 ### Lead Software Engineer
 
@@ -97,21 +101,21 @@ _Full-time - Palo Alto, California, (8 months)_
 `Apr 2018 – Mar 2020`
 _Contract - Palo Alto, California (2 years)_
 
-> - Complete code base conversion to React Native with feature parity.
+> - Completed codebase conversion to React Native with feature parity.
 
 > - Recruited, trained and provided mentorship to team members in technical areas and monitored their performance.
 
 > - Defined the strategy of how the project would be implemented (documentation, technology, etc).
 
-> - Redesigned UI/UX to improve the usage of the app.
+> - Redesigned UI/UX to improve the usage of the mobile application.
 
-> - Implemented an asynchronous wrapper for API calls for POST and GET methods using isomorphic fetch library.
+> - Implemented an asynchronous wrapper for API calls for POST, PUT, DELETE and GET methods using isomorphic fetch library.
 
-> - Integrated react-native-callkeep, and developed the incoming call and outgoing call screens for video calling communication between health care providers and users.
+> - Integrated native phone calling, and developed the incoming and outgoing call screens for the video chat between health care providers and users.
 
-> - Responsible for design and development of various react-native components such as tab bars, autocomplete address field, image picker, date picker, push notifications, sign-in/out features, profile management, social media integration, and navigation using react-router.
+> - Responsible for design and development of various react-native components such as tab bars, autocomplete address field, image picker, date picker, sign-in/out features, profile management, social media integration, and navigation using react-router.
 
-> - Implementation of Push Notifications to notify doctors of updates on appointments.
+> - Implementation of push notifications to notify doctors of updates on appointments.
 
 ### Founder and Enterprise Architect
 
