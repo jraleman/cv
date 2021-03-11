@@ -8,8 +8,8 @@ title: jraleman
 Full-Stack Software Engineer
 
 [📱 (123) 456-7890](tel:123-456-7890)
-· 📬 [email@address.com](mailto:email@address.com)
-· 🧳 [jraleman.com](https://jraleman.com)
+· [📬 email@address.com](mailto:email@address.com)
+· [🧳 jraleman.com](https://jraleman.com)
 
 ## About
 
@@ -24,7 +24,7 @@ _______________________________________________________________________________
 ![logo](media/images/axiad.jpg)
 [__Axiad__](https://www.axiad.com/){:target="_blank"}
 `Mar 2020 - Present`
-_Full-time - Santa Clara, California (11 months)_
+_Full-time - Santa Clara, California_
 
 > - Experience with authentication techniques (Touch/Face ID) and encryption of sensitive data using AES encryption.
 
@@ -73,7 +73,7 @@ _Self-employed - San Francisco Bay Area (2 years)_
 
 > - Experience using Docker Compose, Kubernetes, for orchestrating and deploying services related to the containers.
 
-> - Cntainer-based deployments using Docker, working with Docker images, Docker hub.
+> - Container-based deployments using Docker, working with Docker images, Docker hub.
 
 ### Frontend Software Engineer
 
@@ -269,10 +269,6 @@ _______________________________________________________________________________
 
 🇬🇧 🇪🇸_English, Spanish_
 
-### Elementary
+### Learning
 
-🇩🇪_German_
-
-### Beginner
-
-🇮🇹 🇯🇵_Italian, Japanese_
+🇩🇪 🇮🇹 🇯🇵_German, Italian, Japanese_
