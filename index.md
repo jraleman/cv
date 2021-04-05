@@ -239,11 +239,96 @@ _______________________________________________________________________________
 - Teamwork, Problem-solving, Creativity
 - Determination, Autodidact, Listening and Mentoring
 
-### Other Skills 
+### Other Skills
+
 - Mobile Applications, Pneumatics, Circuit Analysis
 - Finished Halo 2 campaign in Legendary mode
-- Achieved Lv. 200 under a year in Phantasy Star Online: Blue Burst
+- Achieved Lv. 200 in Phantasy Star Online: Blue Burst
 - Completed Super Mario 64 in less than 20 minutes
+
+_______________________________________________________________________________
+
+## Portfolio
+
+### Production Apps
+
+**Axiad ID**
+
+...
+
+**Axiad Unified Portal**
+
+...
+
+**Vemidoc**
+
+...
+
+**opus1.io**
+
+...
+
+**Courious**
+
+...
+
+### Websites
+
+**GruasSalerno.com**
+
+...
+
+**LAMega.com**
+
+...
+
+**CuentosDelTropico.com**
+
+...
+
+**Dorms.42.us.org**
+
+Dormitory website designed and developed for 42 School Silicon Valley. Used to manage students profile and to keep them updated with FAQs. Thanks @sleung
+
+**Cantina.42.us.org**
+
+Cafeteria website used by 42 Silicon Valley, designed and developed to also manage the students profile, info about meals and payments. Thanks @mlu
+
+**Servicios Confiables**
+
+...
+
+**ScarletBytes.com**
+
+...
+
+### Coding
+
+**OpenLibFT**
+
+A redundant open source C library with lots bugs and lots of love. It also includes a man page, unit tests and continous integration.
+
+**RecipeBook**
+
+My first React.js app, but a special one too. This was a gift for my sister on her wedding. Family recipe book, but oneline.
+
+**DiloConAmor**
+
+Web app used to generate messages for special ocacions, such as friends' birthdays, anniversaries, Christmas, etc...
+
+**HomeTRAP**
+
+Captivating experience for families via a printable version of an escape game combined with interactivity with website.
+
+**CitaMe**
+
+Famous phrases and quotes generator, used to share in Twitter how a person is feeling at a particular time in their life.
+
+### Design
+
+**KeyJam - Banana Keyboard**
+
+Facemoji hosted a design jam/hackathon at Covo, San Francisco, with the goal on setting up a challenge to design a new mobile keyboard for their mobile app.
 
 _______________________________________________________________________________
 
