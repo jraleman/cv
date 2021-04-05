@@ -248,6 +248,8 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
+<!--
+
 ## Portfolio
 
 ### Production Apps
@@ -331,6 +333,8 @@ Famous phrases and quotes generator, used to share in Twitter how a person is fe
 Facemoji hosted a design jam/hackathon at Covo, San Francisco, with the goal on setting up a challenge to design a new mobile keyboard for their mobile app.
 
 _______________________________________________________________________________
+
+-->
 
 ## Awards
 
