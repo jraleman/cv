@@ -227,7 +227,7 @@ _______________________________________________________________________________
 ### Tools & Technologies
 
 - JavaScript, TypeScript, HTML5, CSS3, Python, C, C++, x86 Assembly
-- React, React Native, Node.js, Express, MongoDB, Apollo, GraphQL
+- React, React Native, Vue.js Node.js, Express, MongoDB, Apollo, GraphQL
 - Linux, Git, Bash, AWS, Docker
 - AutoCAD, EagleCAD
 - PLC, including Allen-Bradley, Pneumatics
