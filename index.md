@@ -13,7 +13,7 @@ Full-Stack Software Engineer
 
 ## About
 
-I'm Jose Ramon, an engineer originated from Panama, but currently living in the Bay Area, California. Some of my areas of expertise include software engineering, frontend design, embedded systems, music, and many more! Thinking in a logical and clear way has helped me during my academic and professional career, by being a problem-solver and someone who can be relied on.
+I'm Jose Ramon Aleman, a 🇵🇦/🇺🇸 software engineer. Some of my areas of expertise include software engineering, frontend design, embedded systems, music, and many more! Thinking in a logical and clear way has helped me during my academic and professional career, by being a problem-solver and someone who can be relied on.
 
 _______________________________________________________________________________
 
