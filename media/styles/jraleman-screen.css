@@ -109,6 +109,13 @@ h3 {
 	width: 20%;
 }
 
+/* TODO: handle left spacing correctly */
+h4 {
+	position: relative;
+	left: 33.3%; 
+	margin-top: -1%;
+}
+
 a {
 	color: inherit;
 	text-decoration: none
@@ -130,7 +137,32 @@ strong {
 }
 
 img {
-	width: 48px;
-	height: 48px;
+	width: 36px;
+	height: 36px;
 	padding-right: 8px;
+	position: absolute;
+}
+
+@media screen and (max-width: 600px) {
+	h3 {
+		padding-bottom: 1em;
+		position: static;
+		width: 100%;
+	}
+
+	h4 {
+		position: static;
+	}
+
+	p {
+		position: static;
+	}
+
+	ul {
+		position: static;
+	}
+
+	img {
+		display: none;
+	}
 }
