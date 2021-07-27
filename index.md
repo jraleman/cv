@@ -19,7 +19,16 @@ _______________________________________________________________________________
 
 ## Experience
 
-### Software Engineer
+### Frontend Software Engineer
+
+![allurion](media/images/allurion.jpeg)
+[__Allurion__](https://www.allurion.com/){:target="_blank"}
+`May 2021 - Current`
+_Full-time - Boston, Massachusetts (Remote)_
+
+> - ...
+
+### Cloud Software Engineer
 
 ![logo](media/images/axiad.jpg)
 [__Axiad__](https://www.axiad.com/){:target="_blank"}
