@@ -23,7 +23,7 @@ _______________________________________________________________________________
 
 ![logo](media/images/axiad.jpg)
 [__Axiad__](https://www.axiad.com/){:target="_blank"}
-`Mar 2020 - Apr 2021`
+`Mar 2020 - May 2021`
 _Full-time - Santa Clara, California_
 
 > - Experience with authentication techniques (Touch/Face ID) and encryption of sensitive data using AES encryption.
