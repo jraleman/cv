@@ -26,7 +26,13 @@ _______________________________________________________________________________
 `May 2021 - Current`
 _Full-time - Boston, Massachusetts (Remote)_
 
-> - ...
+> - Framework/Gatsby, state managment, theme structure
+
+> - Video Chat, Messaging Service, Hooks, Twilio
+
+> - Language translations, including RTL implementation
+
+> - Typescript, Latest EMACS, Styles Guide, Desing Docs
 
 ### Cloud Software Engineer
 
