@@ -140,10 +140,10 @@ img {
 	width: 36px;
 	height: 36px;
 	padding-right: 8px;
-	position: absolute;
+	/* position: absolute; */
 }
 
-@media screen and (max-width: 600px) {
+/* @media screen and (max-width: 600px) {
 	h3 {
 		padding-bottom: 1em;
 		position: static;
@@ -165,4 +165,4 @@ img {
 	img {
 		display: none;
 	}
-}
+} */
