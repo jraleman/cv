@@ -26,13 +26,19 @@ _______________________________________________________________________________
 `May 2021 - Current`
 _Full-time - Boston, Massachusetts (Remote)_
 
-> - Framework/Gatsby, state managment, theme structure
+> - Owner, maintainer, and developer of an application build using Gatsby as the framework.
 
-> - Video Chat, Messaging Service, Hooks, Twilio
+> - State management using tools such as Redux, and implementing hooks.
 
-> - Language translations, including RTL implementation
+> - Implementation of a video consult call system using Twilio-Video SDK, including fetching of call history.
 
-> - Typescript, Latest EMACS, Styles Guide, Desing Docs
+> - Creating of a messaging service using Twilio-Conversations SDK, sending/receiving messages relatively (100~500ms).
+
+> - Integration of over 12 languages for translation withing the app, including RTL (right-to-left) implementation, such as Arabic language. 
+
+> - Full usage of Typescript, eslint, latest EMACS features.
+
+> - Design of the Styles Guide, Development Docs, and Troubleshooting of Projects.
 
 ### Cloud Software Engineer
 
@@ -250,12 +256,12 @@ _______________________________________________________________________________
 ### Tools & Technologies
 
 - JavaScript, TypeScript, HTML5, CSS3, Python, C, C++, x86 Assembly
-- React, React Native, Vue.js Node.js, Express, MongoDB, Apollo, GraphQL
+- React, React Native, Vue.js Node.js, Express, 
+- MongoDB, Apollo, GraphQL
 - Linux, Git, Bash, AWS, Docker
 - AutoCAD, EagleCAD
-- PLC, including Allen-Bradley, Pneumatics
-- ARM, ARC processors
-- Arduino, Picaxe, Raspberry Pi
+- PLC (mainly Allen-Bradley), Pneumatics, Hydraulics
+- ARM, ARC processors, including Arduino, Picaxe, Raspberry Pi
 
 ### Interpersonal Skills
 
@@ -265,9 +271,19 @@ _______________________________________________________________________________
 ### Other Skills
 
 - Mobile Applications, Pneumatics, Circuit Analysis
+
+### Extra Skills
+
 - Finished Halo 2 campaign in Legendary mode
 - Achieved Lv. 200 in Phantasy Star Online: Blue Burst
 - Completed Super Mario 64 in less than 20 minutes
+- S/A+ ranks in all Hotline Miami levels
+- Stamina to play enough bass guitar up to four hours straight
+
+## Learning
+
+- Quantum Computing
+- Rust
 
 _______________________________________________________________________________
 
@@ -370,6 +386,12 @@ _______________________________________________________________________________
 `2016`
 [__Space Apps Challenge (initiative by NASA)__](https://github.com/jraleman/marstronics){:target="_blank"}
 - 🥇 1st place in National Level to represent Panama at the International level.
+
+<br />
+
+`2014`
+__Best Engineering Project (science week at Latin University of Panama)__
+- ⭐️ 1st place in Engineering Project, out of 20 participants.
 
 <br />
 
