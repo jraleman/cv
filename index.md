@@ -26,7 +26,7 @@ _______________________________________________________________________________
 `May 2021 - Current`
 _Full-time - Boston, Massachusetts (Remote)_
 
-> - Owner, maintainer, and developer of an application build using Gatsby as the framework.
+> - Owner, maintainer, and developer of Allurion Insights web application (using Gatsby as the framework).
 
 > - State management using tools such as Redux, and implementing hooks.
 
@@ -274,8 +274,8 @@ _______________________________________________________________________________
 
 ### Extra Skills
 
-- Finished Halo 2 campaign in Legendary mode
-- Achieved Lv. 200 in Phantasy Star Online: Blue Burst
+- Finished Halo 2 co-op campaign in Legendary mode
+- Achieved Lv. 200 in Phantasy Star Online: Blue Burst under a year
 - Completed Super Mario 64 in less than 20 minutes
 - S/A+ ranks in all Hotline Miami levels
 - Stamina to play enough bass guitar up to four hours straight
@@ -283,7 +283,7 @@ _______________________________________________________________________________
 ## Learning
 
 - Quantum Computing
-- Rust
+- Blockchain
 
 _______________________________________________________________________________
 
@@ -390,14 +390,14 @@ _______________________________________________________________________________
 <br />
 
 `2014`
-__Best Engineering Project (science week at Latin University of Panama)__
+__Best Engineering Project (STEM week at Latin University of Panama)__
 - ⭐️ 1st place in Engineering Project, out of 20 participants.
 
 <br />
 
 `2008`
 __Tournament Winner - Call of Duty 4: Modern Warfare__
-- 🥇 1st place in a regional tornament, during an Expo 2008 at Atlapa Convention Center.
+- 🥇 1st place in a regional tornament, taking place in Panama Expo 2008 Atlapa Convention Center.
 
 _______________________________________________________________________________
 
