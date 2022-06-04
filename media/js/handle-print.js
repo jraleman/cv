@@ -32,16 +32,16 @@ var handlePrint = function (e) {
   hideSection("languages", delim);
 }
 
-var returnToHome = function (e) {
+var reloadPage = function (e) {
   if (e && e.returnValue) {
-    window.location.replace("http://www.jraleman.com");
+    window.location.reload();
   }
 }
 
 //for chrome
 window.matchMedia('print').addListener(function(mql) {
-  mql.matches ? handlePrint() : returnToHome();
+  mql.matches ? handlePrint() : reloadPage();
 });
 
 window.onbeforeprint = handlePrint;
-window.onafterprint = returnToHome;
+window.onafterprint = reloadPage;
