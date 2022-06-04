@@ -24,6 +24,7 @@ function hideSection(id, delim) {
 }
 
 var handlePrint = function (e) {
+  window.alert('Remember to change email and phone values! :)')
   // <hr />
   var delim = 'HR';
   // h1 === id
