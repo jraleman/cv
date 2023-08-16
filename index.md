@@ -19,11 +19,37 @@ _______________________________________________________________________________
 
 ## 👨‍💻 Experience
 
+### Founder and Enterprise Architect
+
+![raisga](media/images/raisga)
+[__Raisga__](https://www.raisga.com/){:target="_blank"}
+`May 2023 - Present`
+_Full-time - Atlanta, Georgia (Self-Employed)_
+
+> - Business Planning: Developing a comprehensive business plan that outlines the company's mission, goals, target market, competition, marketing strategy, and financial projections.
+
+> - Idea Generation and Validation: Coming up with innovative business ideas and validating their potential through research and testing.
+
+> - Product Development: Overseeing the creation of the company's products or services and ensuring they meet customer needs and market demands.
+
+> - Budgeting: Creating and managing a budget for the technology infrastructure, including software, hardware, and personnel costs.
+
+> - Decision-making: Making difficult decisions, especially when it comes to managing resources and prioritizing efforts.
+
+> - Strategic Planning: Creating a roadmap for technology infrastructure that aligns with the company's business goals and objectives.
+
+> - Architecture Design: Designing the overall system architecture and ensuring it's scalable, secure, and aligned with industry best 
+practices.
+
+> - Marketing and Sales: Driving brand awareness and sales through marketing and sales strategies, including digital marketing, social media, events, and partnerships.
+
+> - Innovation: Staying up-to-date with emerging technologies and identifying opportunities to leverage them in the enterprise architecture.
+
 ### Frontend Software Engineer
 
 ![allurion](media/images/allurion.jpeg)
 [__Allurion__](https://www.allurion.com/){:target="_blank"}
-`May 2021 - Current`
+`May 2021 - Feb 2023`
 _Full-time - Boston, Massachusetts (Remote)_
 
 > - Owner, maintainer, and developer of Allurion Insights web application (using Gatsby as the framework).
@@ -409,4 +435,4 @@ _______________________________________________________________________________
 
 ### Learning
 
-🇩🇪 🇮🇹 🇯🇵_German, Italian, Japanese_
+🇩🇪 🇵🇹 🇮🇹 🇯🇵_German, Portuguese, Italian, Japanese_
