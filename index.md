@@ -21,7 +21,7 @@ _______________________________________________________________________________
 
 ### Founder and Enterprise Architect
 
-![raisga](media/images/raisga)
+![raisga](media/images/raisga.png)
 [__Raisga__](https://www.raisga.com/){:target="_blank"}
 `May 2023 - Present`
 _Full-time - Atlanta, Georgia (Self-Employed)_
