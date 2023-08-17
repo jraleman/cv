@@ -24,7 +24,7 @@ _______________________________________________________________________________
 ![raisga](media/images/raisga.png)
 [__Raisga__](https://www.raisga.com/){:target="_blank"}
 `May 2023 - Present`
-_Full-time - Atlanta, Georgia (Self-Employed)_
+_Self-Employed - Atlanta, Georgia_
 
 > - Business Planning: Developing a comprehensive business plan that outlines the company's mission, goals, target market, competition, marketing strategy, and financial projections.
 
