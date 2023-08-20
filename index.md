@@ -242,6 +242,13 @@ _______________________________________________________________________________
 
 ## 👨‍🎓 Education
 
+`2021 – 2022`
+![upc](media/images/upc.png)
+[__UPC School (Universitat Politècnica de Catalunya) 🇪🇸__](https://www.upc.edu/en){:target="_blank"}
+- Postgraduate Degree, Quantum Engineering
+
+<br />
+
 `2016 – 2019`
 ![42 coding school](media/images/42.png)
 [__42 Silicon Valley 🇺🇸 🇫🇷__](https://www.42.fr/en/){:target="_blank"}
