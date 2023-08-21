@@ -11,12 +11,11 @@ em {
 }
 
 body {
-	font: normal normal 400;
 	font-size: 100%;
 	line-height: 1.5em;
 	font-family: Avenir,Verdana,sans-serif;
-	margin-top: 1em;
-	margin-left: 1em;
+	margin: 2em;
+	max-width: 768px;
 }
 
 p {
@@ -24,7 +23,7 @@ p {
 	left: 25%;
 	margin-bottom: 0.5em;
 	margin-right: 0;
-	width: 55%;
+	text-align: justify;
 }
 
 code {
@@ -60,6 +59,7 @@ li {
 	/*second line indent*/
 	padding-left: 1.25em;
 	text-indent: -1.25em;
+	text-align: justify;
 }
 
 li ul {
@@ -140,10 +140,12 @@ img {
 	width: 36px;
 	height: 36px;
 	padding-right: 8px;
-	/* position: absolute; */
 }
 
-/* @media screen and (max-width: 600px) {
+@media screen and (max-width: 600px) {
+	body {
+		max-width: 460px;
+	}
 	h3 {
 		padding-bottom: 1em;
 		position: static;
@@ -165,4 +167,4 @@ img {
 	img {
 		display: none;
 	}
-} */
+}
