@@ -9,6 +9,9 @@ function nextElement(e) {
 
 function hideSection(id, delim) {
   var element = document.getElementById(id);
+  if (!element) {
+    return;
+  }
   element.style.display = 'none';
   while (true) {
     var e = nextElement(element);
