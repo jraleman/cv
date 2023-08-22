@@ -13,7 +13,7 @@ Full-Stack Software Engineer
 
 ## About
 
-I'm Jose Ramon Aleman, a 🇵🇦/🇺🇸 software engineer. Some of my areas of expertise include frontend development, ui/ux, design, cloud infrastructure, and some embedded systems and low level stuff. Thinking in a logical and clear way has helped me during my academic and professional career, by being a problem-solver and someone who can be relied on. 👍
+I'm Jose Ramon Aleman, a 🇵🇦/🇺🇸 software engineer. My areas of expertise include frontend development, ui/ux, design, cloud infrastructure, and some embedded systems and low level coding. Thinking in a logical and clear way has helped me during my academic and professional career, by being a problem-solver and someone who can be relied on. 👍
 
 _______________________________________________________________________________
 
@@ -26,24 +26,24 @@ _______________________________________________________________________________
 `May 2023 - Present`
 _Self-Employed - Atlanta, Georgia_
 
-> - Business Planning: Developing a comprehensive business plan that outlines the company's mission, goals, target market, competition, marketing strategy, and financial projections.
+> - Coming up with innovative business ideas and validating their potential through research and testing.
 
-> - Idea Generation and Validation: Coming up with innovative business ideas and validating their potential through research and testing.
+> - Developed a comprehensive business plan outlining the company's mission, goals, target market, and marketing strategy.
 
-> - Product Development: Overseeing the creation of the company's products or services and ensuring they meet customer needs and market demands.
+> - Overseeing the creation of the company's products or services and ensuring they meet customer needs and market demands.
 
-> - Budgeting: Creating and managing a budget for the technology infrastructure, including software, hardware, and personnel costs.
+> - Creating and managing a budget for the technology infrastructure, including software, hardware, and personnel costs.
 
-> - Decision-making: Making difficult decisions, especially when it comes to managing resources and prioritizing efforts.
+> - Making difficult decisions, especially when it comes to managing resources and prioritizing efforts.
 
-> - Strategic Planning: Creating a roadmap for technology infrastructure that aligns with the company's business goals and objectives.
+> - Creating a roadmap for technology infrastructure that aligns with the company's business goals and objectives.
 
-> - Architecture Design: Designing the overall system architecture and ensuring it's scalable, secure, and aligned with industry best 
+> - Designing the overall system architecture and ensuring it's scalable, secure, and aligned with industry best 
 practices.
 
-> - Marketing and Sales: Driving brand awareness and sales through marketing and sales strategies, including digital marketing, social media, events, and partnerships.
+> - Driving brand awareness and sales through marketing and sales strategies, including digital marketing, social media, events, and partnerships.
 
-> - Innovation: Staying up-to-date with emerging technologies and identifying opportunities to leverage them in the enterprise architecture.
+> - Staying up-to-date with emerging technologies and identifying opportunities to leverage them in the enterprise architecture.
 
 ### Frontend Software Engineer
 
