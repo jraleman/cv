@@ -36,9 +36,8 @@ code {
 p code {
 	position: absolute;
 	text-align: right;
-	right: -20%;
+	right: 0;
 }
-
 
 ul {
 	position: relative;
