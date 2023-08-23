@@ -11,13 +11,13 @@ Full-Stack Software Engineer
 · [📬 email@address.com](mailto:email@address.com)
 · [🧳 jraleman.com](https://jraleman.com)
 
-## About
+## ℹ️ About {#about}
 
 I'm Jose Ramon Aleman, a 🇵🇦/🇺🇸 software engineer. My areas of expertise include frontend development, ui/ux, design, cloud infrastructure, and some embedded systems and low level coding. Thinking in a logical and clear way has helped me during my academic and professional career, by being a problem-solver and someone who can be relied on. 👍
 
 _______________________________________________________________________________
 
-## 👨‍💻 Experience
+## 👨‍💻 Experience {#experience}
 
 ### Founder and Enterprise Architect
 
@@ -240,7 +240,7 @@ such as switches, distribution boards, sockets.
 
 _______________________________________________________________________________
 
-## 👨‍🎓 Education
+## 👨‍🎓 Education {#education}
 
 `2021 – 2022`
 ![upc](media/images/upc.png)
@@ -284,9 +284,9 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
-## 👨‍🚀 Skills
+## 👨‍🚀 Skills {#skills}
 
-### Tools & Technologies
+### Tools & Technologies {#skills-tech}
 
 - JavaScript, TypeScript, HTML5, CSS3, Python, C, C++, x86 Assembly
 - React, React Native, Vue.js Node.js, Express, 
@@ -296,119 +296,23 @@ _______________________________________________________________________________
 - PLC (mainly Allen-Bradley), Pneumatics, Hydraulics
 - ARM, ARC processors, including Arduino, Picaxe, Raspberry Pi
 
-### Interpersonal Skills
+### Interpersonal Skills {#skills-soft}
 
 - Teamwork, Problem-solving, Creativity
 - Determination, Autodidact, Listening and Mentoring
 
-### Other Skills
+### Other Skills {#skills-misc}
 
 - Mobile Applications, Pneumatics, Circuit Analysis
-
-### Extra Skills
-
 - Finished Halo 2 co-op campaign in Legendary mode
 - Achieved Lv. 200 in Phantasy Star Online: Blue Burst under a year
 - Completed Super Mario 64 in less than 20 minutes
 - S/A+ ranks in all Hotline Miami levels
 - Stamina to play enough bass guitar up to four hours straight
 
-## Learning
-
-- Quantum Computing
-- Blockchain
-
 _______________________________________________________________________________
 
-<!--
-
-## Portfolio
-
-### Production Apps
-
-**Axiad ID**
-
-...
-
-**Axiad Unified Portal**
-
-...
-
-**Vemidoc**
-
-...
-
-**opus1.io**
-
-...
-
-**Courious**
-
-...
-
-### Websites
-
-**GruasSalerno.com**
-
-...
-
-**LAMega.com**
-
-...
-
-**CuentosDelTropico.com**
-
-...
-
-**Dorms.42.us.org**
-
-Dormitory website designed and developed for 42 School Silicon Valley. Used to manage students profile and to keep them updated with FAQs. Thanks @sleung
-
-**Cantina.42.us.org**
-
-Cafeteria website used by 42 Silicon Valley, designed and developed to also manage the students profile, info about meals and payments. Thanks @mlu
-
-**Servicios Confiables**
-
-...
-
-**ScarletBytes.com**
-
-...
-
-### Coding
-
-**OpenLibFT**
-
-A redundant open source C library with lots bugs and lots of love. It also includes a man page, unit tests and continous integration.
-
-**RecipeBook**
-
-My first React.js app, but a special one too. This was a gift for my sister on her wedding. Family recipe book, but oneline.
-
-**DiloConAmor**
-
-Web app used to generate messages for special ocacions, such as friends' birthdays, anniversaries, Christmas, etc...
-
-**HomeTRAP**
-
-Captivating experience for families via a printable version of an escape game combined with interactivity with website.
-
-**CitaMe**
-
-Famous phrases and quotes generator, used to share in Twitter how a person is feeling at a particular time in their life.
-
-### Design
-
-**KeyJam - Banana Keyboard**
-
-Facemoji hosted a design jam/hackathon at Covo, San Francisco, with the goal on setting up a challenge to design a new mobile keyboard for their mobile app.
-
-_______________________________________________________________________________
-
--->
-
-## 🏆 Awards
+## 🏆 Awards {#awards}
 
 `2018`
 [__Baidu Facemoji Keyboard__](https://github.com/jraleman/Facemoji_Keyjam){:target="_blank"}
@@ -434,7 +338,7 @@ __Tournament Winner - Call of Duty 4: Modern Warfare__
 
 _______________________________________________________________________________
 
-## 🌐 Languages
+## 🌐 Languages {#languages}
 
 ### Proficient
 

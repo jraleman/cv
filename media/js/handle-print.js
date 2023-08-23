@@ -1,5 +1,3 @@
-// handle-print.js
-
 function nextElement(e) {
   do {
     e = e.nextSibling;
@@ -9,9 +7,6 @@ function nextElement(e) {
 
 function hideSection(id, delim) {
   var element = document.getElementById(id);
-  if (!element) {
-    return;
-  }
   element.style.display = 'none';
   while (true) {
     var e = nextElement(element);
@@ -28,11 +23,10 @@ function hideSection(id, delim) {
 
 var handlePrint = function (e) {
   window.alert('Remember to change email and phone values! :)')
-  // <hr />
   var delim = 'HR';
-  // h1 === id
   hideSection("about", delim);
   hideSection("awards", delim);
+  hideSection("skills-misc", delim);
   hideSection("languages", delim);
 }
 
@@ -41,11 +35,6 @@ var reloadPage = function (e) {
     window.location.reload();
   }
 }
-
-//for chrome
-window.matchMedia('print').addListener(function(mql) {
-  mql.matches ? handlePrint() : reloadPage();
-});
 
 window.onbeforeprint = handlePrint;
 window.onafterprint = reloadPage;
