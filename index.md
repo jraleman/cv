@@ -20,12 +20,12 @@ _______________________________________________________________________________
 
 ## 👨‍💻 Experience {#experience}
 
-### Senior Software Engineer
+### Senior Software Engineer {#opus1io_2024}
 
 ![opus1io](media/images/opus1io.png)
 [__Opus1.io__](https://www.opus1.io){:target="_blank"}
-`Jan 2024 - Apr 2024`
-_Contractor - (Remote) Palo Alto, California (4 months)_
+`Feb 2024 - Apr 2024`
+_Contractor - (Remote) Palo Alto, California (3 months)_
 
 > - Codebase Maintenance: Oversee and conduct regular maintenance of the existing codebase to ensure optimal performance and stability. Address bugs, vulnerabilities, and issues.
 
@@ -43,7 +43,7 @@ _Contractor - (Remote) Palo Alto, California (4 months)_
 
 > - Technical Leadership and Guidance: Provide technical leadership and guidance to other team members, helping to resolve complex problems and promoting a culture of innovation and continuous improvement.
 
-### Founder | Enterprise Architect and A.I. Engineer
+### Founder | Enterprise Architect and A.I. Engineer {#raisga_2023}
 
 ![raisga](media/images/raisga.png)
 [__Raisga__](https://www.raisga.com/){:target="_blank"}
@@ -78,7 +78,7 @@ _Self-Employed - Atlanta, Georgia (1 year)_
 
 > - Documentation and Reporting: Maintaining detailed documentation of AI systems and providing comprehensive reports on their performance, challenges, and business impact.
 
-### Frontend Software Engineer
+### Frontend Software Engineer {#allurion_2021}
 
 ![allurion](media/images/allurion.jpeg)
 [__Allurion__](https://www.allurion.com/){:target="_blank"}
@@ -109,7 +109,7 @@ _Full-time - (Remote) Boston, Massachusetts (2 years)_
 
 > - Kept abreast of industry trends and technologies, applying cutting-edge solutions to leverage strategic advantages for the organization, fostering innovation and competitive edge.
 
-### Cloud Software Engineer
+### Cloud Software Engineer {#axiad_2020}
 
 ![axiad](media/images/axiad.jpg)
 [__Axiad__](https://www.axiad.com/){:target="_blank"}
@@ -142,7 +142,7 @@ _Full-time - Santa Clara, California (1 year)_
 
 > - Worked on accessibility related development using Aria standards.
 
-### Co-Founder & CTO
+### Co-Founder & CTO {#easyworking_2019}
 
 ![easyworking](media/images/easyworking.jpeg)
 [__EasyWorking__](https://www.linkedin.com/company/easyworkingco/){:target="_blank"}
@@ -165,7 +165,7 @@ _Self-employed - San Francisco Bay Area (2 years)_
 
 > - Container-based deployments using Docker, working with Docker images, Docker hub.
 
-### Frontend Software Engineer
+### Frontend Software Engineer {#opus1io_2019}
 
 ![opus1.io](media/images/opus1io.png)
 [__Opus1.io__](https://www.opus1.io){:target="_blank"}
@@ -184,7 +184,7 @@ _Full-time - Palo Alto, California, (8 months)_
 
 > - Configured Webpack to execute linters, magnifiers, pre/post-processors, tests, transpires, etc. based on build script.
 
-### Lead Software Engineer
+### Lead Software Engineer {#vemidoc_2018}
 
 ![vemidoc](media/images/vemidoc.jpg)
 [__Vemidoc__](https://www.vemidoc.com){:target="_blank"}
@@ -207,7 +207,7 @@ _Contract - Palo Alto, California (2 years)_
 
 > - Implementation of push notifications to notify doctors of updates on appointments.
 
-### Founder and Enterprise Architect
+### Founder and Enterprise Architect {#scarletbytes_2016}
 
 ![scarlet bytes](media/images/scarletbytes.png)
 [__Scarlet Bytes__](https://www.scarletbytes.com){:target="_blank"}
@@ -228,7 +228,7 @@ _Self-employed - Panama City, Panama (3 years, 3 months)_
 
 > - Extensively work with Adobe Photoshop, Illustrator, Dreamweaver, and many other design applications.
 
-### Mobile Application Developer
+### Mobile Application Developer {#courious_2017}
 
 ![courious](media/images/courious.png)
 [__Courious__](https://play.google.com/store/apps/details?id=com.couriousapp&hl=en_US&gl=US){:target="_blank"}
@@ -245,7 +245,7 @@ _Internship - Fremont, California (8 months)_
 
 > - Worked on menu/logout functionality.
 
-### Teacher Assistant
+### Teacher Assistant {#ulat_2015}
 
 ![universidad latina](media/images/ulat.jpeg)
 [__Latin University of Panama__](https://ulatina.edu.pa/){:target="_blank"}
@@ -262,7 +262,7 @@ _Teacher Assistant - Panama City, Panama (4 months)_
 
 > - Terminated in-devices into Programmable Logic Control (PLC), programed in-devices for remote operations, and tested in-devices for well emergency shut-downs.
 
-### Electrician Assistant
+### Electrician Assistant {#electricidadtotal_2011}
 
 ![electricidad total](https://via.placeholder.com/100/afdde9/fefefe?text=E){:target="_blank"}
 __Electricidad Total__
@@ -275,9 +275,7 @@ _Full-time - Panama City, Panama (6 months)_
 
 > - Working knowledge of job site safety as well as ability to complete a company specific safety orientation.
 
-> - Understanding of schematic diagrams, blueprints and other specifications
-required for the installation of electrical cabling and associated devices
-such as switches, distribution boards, sockets.
+> - Understanding of schematic diagrams, blueprints and other specifications required for the installation of electrical cabling and associated devices such as switches, distribution boards, sockets.
 
 > - Experience working with hand tools, power tool and electronic test equipment.
 
@@ -329,24 +327,23 @@ _______________________________________________________________________________
 
 ## 👨‍🚀 Skills {#skills}
 
-### Tools & Technologies {#skills-tech}
+### Tools & Technologies {#skills_tech}
 
 - JavaScript, TypeScript, HTML5, CSS3, Python, C, C++, x86 Assembly
-- React, React Native, Vue.js Node.js, Express, 
-- MongoDB, Apollo, GraphQL
+- React, React Native, Vue.js, Node.js, Express
+- MySQL, MongoDB, Apollo, GraphQL
 - Linux, Git, Bash, AWS, Docker
-- AutoCAD, EagleCAD
 - PLC (mainly Allen-Bradley), Pneumatics, Hydraulics
 - ARM, ARC processors, including Arduino, Picaxe, Raspberry Pi
+- AutoCAD, EagleCAD
 
-### Interpersonal Skills {#skills-soft}
+### Interpersonal Skills {#skills_soft}
 
 - Teamwork, Problem-solving, Creativity
 - Determination, Autodidact, Listening and Mentoring
 
-### Other Skills {#skills-misc}
+### Other Skills {#skills_misc}
 
-- Mobile Applications, Pneumatics, Circuit Analysis
 - Finished Halo 2 co-op campaign in Legendary mode
 - Achieved Lv. 200 in Phantasy Star Online: Blue Burst under a year
 - Completed Super Mario 64 in less than 20 minutes

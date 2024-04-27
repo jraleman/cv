@@ -26,7 +26,7 @@ var handlePrint = function (e) {
   var delim = 'HR';
   hideSection("about", delim);
   hideSection("awards", delim);
-  hideSection("skills-misc", delim);
+  hideSection("skills_misc", delim);
   hideSection("languages", delim);
 }
 
