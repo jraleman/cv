@@ -43,12 +43,12 @@ _Contractor - (Remote) Palo Alto, California (3 months)_
 
 > - Technical Leadership and Guidance: Provide technical leadership and guidance to other team members, helping to resolve complex problems and promoting a culture of innovation and continuous improvement.
 
-### Founder | Enterprise Architect and A.I. Engineer {#raisga_2023}
+### Founder | A.I. Engineer {#raisga_2023}
 
 ![raisga](media/images/raisga.png)
 [__Raisga__](https://www.raisga.com/){:target="_blank"}
 `May 2023 - Present`
-_Self-Employed - Atlanta, Georgia (1 year)_
+_Business Owner - Atlanta, Georgia (1 year)_
 
 > - Coming up with innovative business ideas and validating their potential through research and testing.
 

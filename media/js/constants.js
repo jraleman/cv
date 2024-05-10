@@ -1,4 +1,21 @@
-const CV_COMPLETE = {
+export const CHEAT_CODE = [
+    // konami code
+    'ArrowUp', 
+    'ArrowUp', 
+    'ArrowDown', 
+    'ArrowDown', 
+    'ArrowLeft', 
+    'ArrowRight', 
+    'ArrowLeft', 
+    'ArrowRight', 
+    'b', 
+    'a'
+];
+
+export const URL = 'https://raw.githubusercontent.com/jraleman/cv/master/index.md';
+export const HOME_URL = 'https://jraleman.com';
+
+export const CV_COMPLETE = {
     titleSectionsIds: [
         'experience',
         'education',
@@ -26,7 +43,7 @@ const CV_COMPLETE = {
     ]
 };
 
-const FRONTEND_resume = {
+export const FRONTEND_CV = {
     titleSectionsIds: [
         'experience',
         'education',
