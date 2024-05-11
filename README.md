@@ -22,6 +22,13 @@ To change the default style, simply change the variable in the
 
 A live preview can be [accessed here](https://jraleman.com/cv).
 
+### Bonus
+
+- Enter the Konami Code, this will show the raw markdown content without styling
+- Use the following href tags to change the content of the CV
+  - `#all`: Shows everything (default)
+  - `#fe`: Tailored for front-end work experience
+
 ### License
 
 [MIT License](https://github.com/jraleman/cv-fe-cloud/blob/master/LICENSE)

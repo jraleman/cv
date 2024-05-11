@@ -285,42 +285,42 @@ _______________________________________________________________________________
 
 `2021 – 2022`
 ![upc](media/images/upc.png)
-[__UPC School (Universitat Politècnica de Catalunya) 🇪🇸__](https://www.upc.edu/en){:target="_blank"}
+[__UPC School (Universitat Politècnica de Catalunya) 🇪🇸__](https://www.upc.edu/en){:target="_blank", #upc_2022}
 - Postgraduate Degree, Quantum Engineering
 
 <br />
 
 `2016 – 2019`
 ![42 coding school](media/images/42.png)
-[__42 Silicon Valley 🇺🇸 🇫🇷__](https://www.42.fr/en/){:target="_blank"}
+[__42 Silicon Valley 🇺🇸 🇫🇷__](https://www.42.fr/en/){:target="_blank", #42_2019}
 - Certificate in Software Engineering
 
 <br />
 
 `2015 – 2018`
 ![universidad latina](media/images/ulat.jpeg)
-[__Latin University of Panama 🇵🇦__](https://ulatina.edu.pa/){:target="_blank"}
+[__Latin University of Panama 🇵🇦__](https://ulatina.edu.pa/){:target="_blank", #ulat_2018}
 - Master of Business Administration (M.B.A.)
 
 <br />
 
 `2011 – 2015`
 ![universidad latina](media/images/ulat.jpeg)
-[__Latin University of Panama 🇵🇦__](https://ulatina.edu.pa/){:target="_blank"}
+[__Latin University of Panama 🇵🇦__](https://ulatina.edu.pa/){:target="_blank", #ulat_2015}
 - Mechatronics Engineering (B.Sc)
 
 <br />
 
 `2012 – 2014`
 ![academia de musica de panama](media/images/amp.png)
-[__Music Academy of Panama 🇵🇦__](https://www.ampenlinea.com/){:target="_blank"}
+[__Music Academy of Panama 🇵🇦__](https://www.ampenlinea.com/){:target="_blank", #amp_2014}
 - Music Theory and Composition
 
 <br />
 
 `1997 – 2010`
 ![panamerican schnool](media/images/pas.jpg)
-[__Panamerican School 🇵🇦__](http://panamericanschool-pa.net/index.php){:target="_blank"}
+[__Panamerican School 🇵🇦__](http://panamericanschool-pa.net/index.php){:target="_blank", #pas_2010}
 - High School Degree, Specialty in Science and Informatics
 
 _______________________________________________________________________________

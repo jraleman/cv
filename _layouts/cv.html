@@ -1,20 +1,34 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-<head>
-  <meta charset=utf-8 />
-  <title> {% if page.title %} {{ page.title }} | {% endif %} CV</title>
-  <link href="media/styles/reset.css" type="text/css" rel="stylesheet" media="all" />
-  <link href="media/styles/{{ site.style }}-screen.css" type="text/css" rel="stylesheet" media="screen">
-  <link href="media/styles/{{ site.style }}-print.css" type="text/css" rel="stylesheet" media="print">
-</head>
-<body>
-  <div id="main">
-    <div id="content">
-    {{ content }}
+  <head>
+    <meta charset="utf-8" />
+    <title>{% if page.title %} {{ page.title }} | {% endif %} CV</title>
+    <link
+      href="media/styles/reset.css"
+      type="text/css"
+      rel="stylesheet"
+      media="all"
+    />
+    <link
+      href="media/styles/{{ site.style }}-screen.css"
+      type="text/css"
+      rel="stylesheet"
+      media="screen"
+    />
+    <link
+      href="media/styles/{{ site.style }}-print.css"
+      type="text/css"
+      rel="stylesheet"
+      media="print"
+    />
+  </head>
+  <body>
+    <div id="main">
+      <div id="content">{{ content }}</div>
+      <pre id="raw"></pre>
     </div>
-    <pre id="raw"></pre>
-  </div>
-</body>
-<script type="module" src="media/js/handle-keys.js"></script>
-<script type="module" src="media/js/handle-print.js"></script>
+  </body>
+  <script type="module" src="media/js/handle-keys.js"></script>
+  <script type="module" src="media/js/handle-print.js"></script>
+  <script type="module" src="media/js/handle-hash.js"></script>
 </html>

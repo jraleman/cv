@@ -1,15 +1,15 @@
-import { hideSection } from './utils.js';
+import { hideSectionById } from './utils.js';
 
-var handlePrint = function (e) {
+const handlePrint = function (e) {
   window.alert('Remember to change email and phone values! :)')
-  var delim = 'HR';
-  hideSection("about", delim);
-  hideSection("awards", delim);
-  hideSection("skills_misc", delim);
-  hideSection("languages", delim);
+  const delim = 'HR';
+  hideSectionById("about", delim);
+  hideSectionById("awards", delim);
+  hideSectionById("skills_misc", delim);
+  hideSectionById("languages", delim);
 }
 
-var reloadPage = function (e) {
+const reloadPage = function (e) {
   if (e && e.returnValue) {
     window.location.reload();
   }
