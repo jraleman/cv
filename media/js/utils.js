@@ -21,7 +21,6 @@ export function hideSectionById(id, delim) {
   element.style.display = "none";
   while (true) {
     const e = nextElement(element);
-    console.log(e.nodeName);
     if (!e || !e.nodeName || e.nodeName === delim || e.nodeName === 'HR') {
       if (e && e.nodeName === delim) {
         e.style.display = "none";
