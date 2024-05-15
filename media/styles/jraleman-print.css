@@ -1,5 +1,5 @@
 blockquote, q {
-	font-size: 0.75em !important;
+	font-size: 0.65em !important;
 	width: 95%;
 }
 
@@ -15,10 +15,10 @@ em {
 body {
 	font: normal normal 400;
 	font-size: 100%;
-	line-height: 1.5em;
+	line-height: 1.25em;
 	font-family: Avenir,Verdana,sans-serif;
-	margin-top: 1em;
-	margin-left: 1em;
+	margin-top: 1rem;
+	margin-left: 1rem;
 }
 
 p {
