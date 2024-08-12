@@ -25,7 +25,7 @@ _______________________________________________________________________________
 ![opus1io](media/images/opus1io.png)
 [__Opus1.io__](https://www.opus1.io){:target="_blank"}
 `Feb 2024 - Apr 2024`
-_Contractor - (Remote) Palo Alto, California (3 months)_
+_Full-time - (Remote) Palo Alto, California (3 months)_
 
 > - Codebase Maintenance: Oversee and conduct regular maintenance of the existing codebase to ensure optimal performance and stability. Address bugs, vulnerabilities, and issues.
 
