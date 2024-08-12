@@ -20,29 +20,6 @@ _______________________________________________________________________________
 
 ## 👨‍💻 Experience {#experience}
 
-### Senior Software Engineer {#opus1io_2024}
-
-![opus1io](media/images/opus1io.png)
-[__Opus1.io__](https://www.opus1.io){:target="_blank"}
-`Feb 2024 - Apr 2024`
-_Full-time - (Remote) Palo Alto, California (3 months)_
-
-> - Codebase Maintenance: Oversee and conduct regular maintenance of the existing codebase to ensure optimal performance and stability. Address bugs, vulnerabilities, and issues.
-
-> - Refactoring React Components: Assess and refactor existing React components to improve efficiency, readability, and reusability. Ensure that components align with modern React best practices, such as functional components and hooks.
-
-> - Feature Development: Develop and integrate new features, particularly within form functionalities. Enhance user interface and experience by adding user-requested features and improving form interactions.
-
-> - API Integration and Updates: Update existing APIs and integrate new APIs as required by the project needs. Ensure that all integrations are secure, efficient, and scalable.
-
-> - Collaboration and Reporting: Work closely with the product management and development teams to align project goals and timelines. Provide regular updates and progress reports to stakeholders.
-
-> - Documentation: Document code changes, refactorings, and new implementations thoroughly to assist future development efforts and ensure continuity.
-
-> - Adaptability to Project Needs: Remain flexible to take on additional responsibilities or shifts in focus as project priorities evolve over the contract period.
-
-> - Technical Leadership and Guidance: Provide technical leadership and guidance to other team members, helping to resolve complex problems and promoting a culture of innovation and continuous improvement.
-
 ### Founder | A.I. Engineer {#raisga_2023}
 
 ![raisga](media/images/raisga.png)
@@ -77,6 +54,24 @@ _Business Owner - Atlanta, Georgia (1 year)_
 > - Staying Updated with AI Advancements: Keeping up with the latest developments in AI research and technologies to incorporate cutting-edge solutions into existing and future projects.
 
 > - Documentation and Reporting: Maintaining detailed documentation of AI systems and providing comprehensive reports on their performance, challenges, and business impact.
+
+
+### Senior Software Engineer {#opus1io_2024}
+
+![opus1io](media/images/opus1io.png)
+[__Opus1.io__](https://www.opus1.io){:target="_blank"}
+`Feb 2024 - Apr 2024`
+_Full-time - (Remote) Palo Alto, California (3 months)_
+
+> - Spearheaded the development and maintenance of highly scalable web application using React for front-end development, ensuring an optimal user experience across browsers.
+
+> - Led codebase refactoring initiatives to improve code quality, maintainability, and scalability, resulting in a 30% reduction in technical debt and a 15% improvement in system performance.
+
+> - Develop and integrate new features, particularly within form functionalities. Enhance user interface and experience by adding user-requested features and improving form interactions.
+
+> - Update existing APIs and integrate new APIs as required by the project needs. Ensure that all integrations are secure, efficient, and scalable.
+
+> - Document code changes, refactoring, and new implementations thoroughly to assist future development efforts and ensure continuity.
 
 ### Frontend Software Engineer {#allurion_2021}
 
