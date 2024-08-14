@@ -1,6 +1,5 @@
 # Curriculum Vitae
 
-Started as a fork from [Elipapa's markdown-cv](https://github.com/elipapa/markdown-cv/).
 This is a curriculum vitae maintained in markdown and rendered to HTML and PDF using CSS.
 
 ## Usage
@@ -27,8 +26,12 @@ A live preview can be [accessed here](https://jraleman.com/cv).
 - Enter the Konami Code, this will show the raw markdown content without styling
 - Use the following href tags to change the content of the CV
   - `#all`: Shows everything (default)
-  - `#fe`: Tailored for front-end work experience
+  - `#swe`: Tailored for software engineer work experience
 
-### License
+## Contributions
+
+-  Started as a fork from [Elipapa's markdown-cv](https://github.com/elipapa/markdown-cv/).
+
+## License
 
 [MIT License](https://github.com/jraleman/cv-fe-cloud/blob/master/LICENSE)

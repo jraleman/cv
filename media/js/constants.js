@@ -42,7 +42,7 @@ export const CV_COMPLETE = {
   schoolIds: ["upc_2022", "42_2019", "ulat_2018", "ulat_2015", "amp_2014", "pas_2010"]
 };
 
-export const FRONTEND_CV = {
+export const SWE_CV = {
   titleSectionsIds: ["experience", "education", "skills"],
   workExperienceIds: [
     "opus1io_2024",
@@ -50,11 +50,11 @@ export const FRONTEND_CV = {
     "allurion_2021",
     "axiad_2020",
   ],
-  skillsIds: ["skills_tech"],
+  skillsIds: ["skills_tech", "skills_soft"],
   schoolIds: ["upc_2022", "42_2019", "ulat_2018", "ulat_2015"]
 };
 
 export const HREF_HASH = {
   "#all": CV_COMPLETE,
-  "#fe": FRONTEND_CV,
+  "#swe": SWE_CV,
 };

@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", function () {
       HREF_HASH["#all"].schoolIds,
       content.schoolIds
     ).map((id) => {
-      hideSectionByTagName("div", "p", id);
+      hideSectionByTagName("p", "ul", id);
     });
   }
 });

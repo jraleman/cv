@@ -7,8 +7,8 @@ title: jraleman
 
 Sr. Software Engineer
 
-[📱 (123) 456-7890](tel:123-456-7890)
-· [📬 email@address.com](mailto:email@address.com)
+[📱 (XXX) XXX-XXXX](tel:xxx-xxx-xxxx)
+· [📬 example@email.com](mailto:example@email.com)
 · [🧳 jraleman.com](https://jraleman.com)
 
 ## ℹ️ About {#about}
@@ -27,7 +27,19 @@ _______________________________________________________________________________
 `May 2023 - Present`
 _Business Owner - Atlanta, Georgia (1 year)_
 
+> - Leading the development and integration of advanced AI technologies such as Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) systems, to enhance product offerings and create new market opportunities.
+
+> - Implementing ethical AI guidelines and practices, ensuring that all AI deployments comply with legal standards and ethical considerations, focusing on transparency, fairness, and accountability in AI applications.
+
+> - Managing and preprocessing large datasets to ensure the data is suitable for use in AI models. This includes cleaning, normalizing, and segmenting data to improve model accuracy and efficiency.
+
+> - Developing and implementing algorithms that drive AI systems, ensuring they can perform tasks such as classification, regression, clustering, or more complex decision-making processes.
+
+> - Deploying AI models into production environments, ensuring they are scalable, maintainable, and secure. This also includes setting up the necessary infrastructure for running AI models in real-time environments.
+
 > - Coming up with innovative business ideas and validating their potential through research and testing.
+
+> - Developed a comprehensive business plan outlining the company's mission, goals, target market, and marketing strategy.
 
 > - Overseeing the creation of the company's products or services and ensuring they meet customer needs and market demands.
 
@@ -35,23 +47,9 @@ _Business Owner - Atlanta, Georgia (1 year)_
 
 > - Creating a roadmap for technology infrastructure that aligns with the company's business goals and objectives.
 
-> - Leading the development and integration of advanced AI technologies such as Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) systems, to enhance product offerings and create new market opportunities.
+> - Designing the overall system architecture and ensuring it's scalable, secure, and aligned with industry best practices.
 
-> - Implementing ethical AI guidelines and practices, ensuring that all AI deployments comply with legal standards and ethical considerations, focusing on transparency, fairness, and accountability in AI applications.
-
-> - Evaluating the performance and impact of AI systems, using metrics and KPIs to assess their value addition, user satisfaction, and return on investment.
-
-> - Creating and developing machine learning models or neural networks that can process and analyze large datasets to make predictions or solve problems.
-
-> - Managing and preprocessing large datasets to ensure the data is suitable for use in AI models. This includes cleaning, normalizing, and segmenting data to improve model accuracy and efficiency.
-
-> - Developing and implementing algorithms that drive AI systems, ensuring they can perform tasks such as classification, regression, clustering, or more complex decision-making processes.
-
-> - Optimizing AI systems for better accuracy and efficiency. This involves adjusting algorithms and tuning hyperparameters to maximize the performance of AI models.
-
-> - Deploying AI models into production environments, ensuring they are scalable, maintainable, and secure. This also includes setting up the necessary infrastructure for running AI models in real-time environments.
-
-> - Staying Updated with AI Advancements: Keeping up with the latest developments in AI research and technologies to incorporate cutting-edge solutions into existing and future projects.
+> - Keeping up with the latest developments in AI research and technologies to incorporate cutting-edge solutions into existing and future projects.
 
 ### Senior Software Engineer {#opus1io_2024}
 
@@ -77,29 +75,24 @@ _Full-time - (Remote) Palo Alto, California (3 months)_
 `May 2021 - Feb 2023`
 _Full-time - (Remote) Boston, Massachusetts (2 years)_
 
-> - Led the development, maintenance, and ongoing enhancement of the Allurion Insights web application utilizing Gatsby, focusing on scalable and maintainable code practices.
+> - Owner, maintainer, and lead developer of a high-performance web application built using Gatsby, driving innovative solutions and ensuring consistent updates to meet evolving business needs.
 
-> - Implemented robust state management solutions using Redux and React Hooks to streamline functionality and improve user interface responsiveness.
+> - Expertly managed state using Redux, implementing custom hooks to streamline complex state management tasks and improve application performance.
 
-> - Developed a video consultation system using Twilio-Video SDK, incorporating features such as real-time call history retrieval to enhance user engagement and service reliability.
+> - Engineered a robust video consultation system using Twilio-Video SDK, with advanced features such as real-time call history retrieval, ensuring seamless user experience.
 
-> - Engineered a high-performance messaging service with Twilio-Conversations SDK, achieving message transmission speeds between 100-500ms, significantly enhancing communication efficiency.
+> - Developed a highly responsive messaging service utilizing Twilio-Conversations SDK, achieving low-latency communication (100~500ms) to enhance user interaction.
 
-> - Spearheaded the integration of multilingual support for over 12 languages, including RTL scripts like Arabic, significantly improving the application’s global usability.
+> - Successfully integrated over 12 languages within the application, including complex RTL (right-to-left) languages like Arabic, ensuring a fully localized user experience.
 
-> - Utilized TypeScript development, enforced code quality with ESLint, and leveraged advanced EMACS features to maintain high standards in code health.
+> - Leveraged the full capabilities of TypeScript, ESLint, and the latest ECMAScript (EMACS) features to write clean, efficient, and maintainable code, significantly reducing bugs and improving 
+code quality.
 
-> - Created comprehensive style guides and development documentation, and led troubleshooting initiatives, which increased development speed and reduced error rates.
+> - Designed and maintained a comprehensive Style Guide, Development Documentation, and Troubleshooting Guides, ensuring consistency across projects and accelerating onboarding for new team members.
 
-> - Optimized web application performance under diverse load conditions, enhancing page load speeds and database interaction efficiency, thereby improving user experience.
+> - Collaborated closely with UX/UI designers and backend engineers to deliver a cohesive and user-friendly interface, driving a 25% increase in user engagement.
 
-> - Collaborated with UX designers to refine application design, conducting user testing sessions that resulted in higher user satisfaction rates.
-
-> - Enhanced application accessibility, adhering to WCAG and ARIA standards, thus broadening market reach and ensuring compliance with legal accessibility standards.
-
-> - Ensured cross-browser compatibility, leading efforts to maintain consistent functionality across multiple platforms and devices, thereby reducing user friction.
-
-> - Kept abreast of industry trends and technologies, applying cutting-edge solutions to leverage strategic advantages for the organization, fostering innovation and competitive edge.
+> - Led performance optimization initiatives, reducing page load times by 40% and improving overall application responsiveness.
 
 ### Cloud Software Engineer {#axiad_2020}
 
@@ -325,6 +318,8 @@ _______________________________________________________________________________
 - React, React Native, Vue.js, Node.js, Express
 - MySQL, MongoDB, Apollo, GraphQL
 - Linux, Git, Bash, AWS, Docker
+- TensorFlow, PyTorch, Jupyter Notebooks, OpenAI API, Pinokio, Ollama
+- Pandas, NumPy, Matplotlib
 - PLC (mainly Allen-Bradley), Pneumatics, Hydraulics
 - ARM, ARC processors, including Arduino, Picaxe, Raspberry Pi
 - AutoCAD, EagleCAD

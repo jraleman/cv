@@ -1,3 +1,8 @@
+hr {
+	margin-bottom: 2em;
+	margin-top: 2em;
+}
+
 blockquote, q {
 	font-size: 0.65em !important;
 	width: 95%;
