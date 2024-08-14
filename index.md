@@ -53,9 +53,6 @@ _Business Owner - Atlanta, Georgia (1 year)_
 
 > - Staying Updated with AI Advancements: Keeping up with the latest developments in AI research and technologies to incorporate cutting-edge solutions into existing and future projects.
 
-> - Documentation and Reporting: Maintaining detailed documentation of AI systems and providing comprehensive reports on their performance, challenges, and business impact.
-
-
 ### Senior Software Engineer {#opus1io_2024}
 
 ![opus1io](media/images/opus1io.png)
