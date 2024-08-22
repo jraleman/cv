@@ -10,7 +10,7 @@ blockquote, q {
 
 ul, li {
 	padding-left: 4em;
-	font-size: 0.95em;
+	font-size: 0.65em !important;
 }
 
 em {
