@@ -13,8 +13,11 @@ Sr. Software Engineer
 
 ## ℹ️ About {#about}
 
-I'm Jose Ramon Aleman, a 🇵🇦/🇺🇸 software engineer. My areas of expertise include frontend development, ui/ux, design, cloud infrastructure, and some embedded systems and low level coding.
-Thinking in a logical and clear way has helped me during my academic and professional career, by being a problem-solver and someone who can be relied on. 👍
+Hello, I'm Jose Ramon Aleman, a 🇵🇦/🇺🇸 software engineer with a strong background in Frontend Development, UI/UX design, Cloud Infrastructure, and Embedded Systems, including low-level programming. Over the years, by solving different problems in a logical and clear way, I came to be recognized as a reliable and resourceful engineer.
+
+Career highlights include responsibility for scalable web and mobile applications in various industries, integration of AI-driven solutions to enhance user experiences, optimization of cloud-based infrastructures to ensure efficiency and cost-effectiveness.
+
+I am committed to continuous learning and to an ever-advancing skill set-from the latest technological advancements to AI/ML frameworks, through cloud solutions, to everything that relates to modern web development. This dedication to self-improvement ensures that I am able to stay on top of the constantly changing technology.
 
 _______________________________________________________________________________
 
@@ -25,7 +28,7 @@ _______________________________________________________________________________
 ![raisga](media/images/raisga.png)
 [__Raisga__](https://www.raisga.com/){:target="_blank"}
 `May 2023 - Present`
-_Business Owner - Atlanta, Georgia (1 year)_
+_Founder - Atlanta, Georgia (1 year)_
 
 > - Leading the development and integration of advanced AI technologies such as Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) systems, to enhance product offerings and create new market opportunities.
 
