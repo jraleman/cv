@@ -25,6 +25,12 @@ _______________________________________________________________________________
 
 ### Founder | A.I. Engineer {#raisga_2023}
 
+<!-- 
+    Resp: Myself
+    Stack: React, ReactNative, Remix, Svelte, Ollama, Pinokio, HuggingFace, TypeScript
+    Exit: N/A
+-->
+
 ![raisga](media/images/raisga.png)
 [__Raisga__](https://www.raisga.com/){:target="_blank"}
 `May 2023 - Present`
@@ -56,6 +62,12 @@ _Founder - Atlanta, Georgia (1 year)_
 
 ### Senior Software Engineer {#opus1io_2024}
 
+<!-- 
+    Report to: CEO & Lead Engineer
+    Stack: React, Python, Rust, AWS, GraphQL, TypeScript
+    Exit: Change of role from remote to hybrid. Not willing to move to California. Fiance breakup.
+-->
+
 ![opus1io](media/images/opus1io.png)
 [__Opus1.io__](https://www.opus1.io){:target="_blank"}
 `Feb 2024 - Apr 2024`
@@ -72,6 +84,12 @@ _Full-time - (Remote) Palo Alto, California (3 months)_
 > - Document code changes, refactoring, and new implementations thoroughly to assist future development efforts and ensure continuity.
 
 ### Frontend Software Engineer {#allurion_2021}
+
+<!-- 
+    Report to: VP of Engineering
+    Stack: React, Remix, Gatsby, AWS, Python, JavaScript, Node.JS
+    Exit: Company got adquired, IPO shortly. Change of team structure, my position was deleted.
+-->
 
 ![allurion](media/images/allurion.jpeg)
 [__Allurion__](https://www.allurion.com/){:target="_blank"}
@@ -99,9 +117,15 @@ code quality.
 
 ### Cloud Software Engineer {#axiad_2020}
 
+<!-- 
+    Report to: Engineering Manager
+    Stack: React.JS, ReactNative, Java, Redux, AWS, TypeScript, OOP
+    Exit: Pandemic era. Moved to Illinois to help out my best friend.
+-->
+
 ![axiad](media/images/axiad.jpg)
 [__Axiad__](https://www.axiad.com/){:target="_blank"}
-`Mar 2020 - May 2021`
+`Mar 2020 - Apr 2021`
 _Full-time - Santa Clara, California (1 year)_
 
 > - Experience with authentication techniques (Touch/Face ID) and encryption of sensitive data using AES encryption.
@@ -132,6 +156,12 @@ _Full-time - Santa Clara, California (1 year)_
 
 ### Co-Founder & CTO {#easyworking_2019}
 
+<!-- 
+    Report to: CEO
+    Stack: Meteor, React.JS, Redux, TypeScript, Node.JS
+    Exit: Corporation dissolved after 2 years.
+-->
+
 ![easyworking](media/images/easyworking.jpeg)
 [__EasyWorking__](https://www.linkedin.com/company/easyworkingco/){:target="_blank"}
 `Mar 2019 – Feb 2021`
@@ -153,7 +183,13 @@ _Self-employed - San Francisco Bay Area (2 years)_
 
 > - Container-based deployments using Docker, working with Docker images, Docker hub.
 
-### Frontend Software Engineer {#opus1io_2019}
+### Software Engineer {#opus1io_2019}
+
+<!-- 
+    Report to: CEO & Lead Engineer
+    Stack: React, Python, GraphQL
+    Exit: Change of team structure. Got new job at Axiad.
+-->
 
 ![opus1.io](media/images/opus1io.png)
 [__Opus1.io__](https://www.opus1.io){:target="_blank"}
@@ -173,6 +209,12 @@ _Full-time - Palo Alto, California, (8 months)_
 > - Configured Webpack to execute linters, magnifiers, pre/post-processors, tests, transpires, etc. based on build script.
 
 ### Lead Software Engineer {#vemidoc_2018}
+
+<!-- 
+    Report to: CTO
+    Stack: ReactNative, AWS
+    Exit: Got new job at Axiad.
+-->
 
 ![vemidoc](media/images/vemidoc.jpg)
 [__Vemidoc__](https://www.vemidoc.com){:target="_blank"}
@@ -197,6 +239,12 @@ _Contract - Palo Alto, California (2 years)_
 
 ### Founder and Enterprise Architect {#scarletbytes_2016}
 
+<!-- 
+    Report to: Myself
+    Stack: HTML5, CSS3, JS, PHP, Ruby, RedHat Linux, Cloudflare
+    Exit: Change of team structure. Got new job at Axiad.
+-->
+
 ![scarlet bytes](media/images/scarletbytes.png)
 [__Scarlet Bytes__](https://www.scarletbytes.com){:target="_blank"}
 `Apr 2016 – Mar 2019`
@@ -218,6 +266,12 @@ _Self-employed - Panama City, Panama (3 years, 3 months)_
 
 ### Mobile Application Developer {#courious_2017}
 
+<!-- 
+    Report to: Senior Engineer
+    Stack: ReactNative, Redux
+    Exit: Done with MVP, started working at Vemidoc.
+-->
+
 ![courious](media/images/courious.png)
 [__Courious__](https://play.google.com/store/apps/details?id=com.couriousapp&hl=en_US&gl=US){:target="_blank"}
 `Sep 2017 – Mar 2018`
@@ -234,6 +288,12 @@ _Internship - Fremont, California (8 months)_
 > - Worked on menu/logout functionality.
 
 ### Teacher Assistant {#ulat_2015}
+
+<!-- 
+    Report to: Teacher
+    Stack: N/A
+    Exit: Completed school quarter term.
+-->
 
 ![universidad latina](media/images/ulat.jpeg)
 [__Latin University of Panama__](https://ulatina.edu.pa/){:target="_blank"}
@@ -252,20 +312,29 @@ _Teacher Assistant - Panama City, Panama (4 months)_
 
 ### Electrician Assistant {#electricidadtotal_2011}
 
+<!-- 
+    Report to: Business owner
+    Stack: N/A
+    Exit: Studying Mechatronics bachelor while getting first job experience.
+-->
+
 ![electricidad total](https://via.placeholder.com/100/afdde9/fefefe?text=E){:target="_blank"}
 __Electricidad Total__
 `Jan 2011 – Jun 2011`
 _Full-time - Panama City, Panama (6 months)_
 
-> - Assisted with the installation of electrical systems.
 
-> - Electrical wiring of cabling and associated devices such as switches, distribution boards, sockets. Interpretation of electrical plans, including residential and commercial.
+> - Assisted in installing electrical systems in over 20 residential and commercial projects, contributing to a 15% reduction in project completion time.
 
-> - Working knowledge of job site safety as well as ability to complete a company specific safety orientation.
+> - Maintained a perfect safety record over 6 months by strictly adhering to safety protocols, resulting in zero workplace accidents.
+
+> - Optimized work area setup and material preparation, increasing team efficiency and reducing downtime between tasks.
+
+> - Supported troubleshooting on 100+ electrical issues with a 95% resolution rate on the first attempt, enhancing customer satisfaction scores by 10%.
+
+> - Implemented an inventory management system that reduced tool loss, saving company budget.
 
 > - Understanding of schematic diagrams, blueprints and other specifications required for the installation of electrical cabling and associated devices such as switches, distribution boards, sockets.
-
-> - Experience working with hand tools, power tool and electronic test equipment.
 
 _______________________________________________________________________________
 
@@ -321,7 +390,7 @@ _______________________________________________________________________________
 - React, React Native, Vue.js, Node.js, Express
 - MySQL, MongoDB, Apollo, GraphQL
 - Linux, Git, Bash, AWS, Docker
-- TensorFlow, PyTorch, Jupyter Notebooks, OpenAI API, Pinokio, Ollama
+- PyTorch, Jupyter Notebooks, OpenAI API, Pinokio, Ollama
 - Pandas, NumPy, Matplotlib
 - PLC (mainly Allen-Bradley), Pneumatics, Hydraulics
 - ARM, ARC processors, including Arduino, Picaxe, Raspberry Pi
