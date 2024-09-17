@@ -17,7 +17,7 @@ Hello, I'm Jose Ramon Aleman, a 🇵🇦/🇺🇸 software engineer with a stron
 
 Career highlights include responsibility for scalable web and mobile applications in various industries, integration of AI-driven solutions to enhance user experiences, optimization of cloud-based infrastructures to ensure efficiency and cost-effectiveness.
 
-I am committed to continuous learning and to an ever-advancing skill set-from the latest technological advancements to AI/ML frameworks, through cloud solutions, to everything that relates to modern web development. This dedication to self-improvement ensures that I am able to stay on top of the constantly changing technology.
+I am committed to continuous learning and to an ever-advancing skill set-from the latest technological advancements to everything that relates to modern web development, mobile apps, cloud solutions, and AI technologies. This dedication to self-improvement ensures that I am able to stay on top of the constantly changing technology.
 
 _______________________________________________________________________________
 
@@ -40,23 +40,15 @@ _Founder - Atlanta, Georgia (1 year)_
 
 > - Implementing ethical AI guidelines and practices, ensuring that all AI deployments comply with legal standards and ethical considerations, focusing on transparency, fairness, and accountability in AI applications.
 
-> - Managing and preprocessing large datasets to ensure the data is suitable for use in AI models. This includes cleaning, normalizing, and segmenting data to improve model accuracy and efficiency.
+> - Preprocessing large datasets to ensure the data is suitable for use in AI models. This includes cleaning, normalizing, and segmenting data to improve model accuracy and efficiency.
 
 > - Developing and implementing algorithms that drive AI systems, ensuring they can perform tasks such as classification, regression, clustering, or more complex decision-making processes.
 
 > - Deploying AI models into production environments, ensuring they are scalable, maintainable, and secure. This also includes setting up the necessary infrastructure for running AI models in real-time environments.
 
-> - Coming up with innovative business ideas and validating their potential through research and testing.
-
-> - Developed a comprehensive business plan outlining the company's mission, goals, target market, and marketing strategy.
-
-> - Overseeing the creation of the company's products or services and ensuring they meet customer needs and market demands.
-
-> - Creating and managing a budget for the technology infrastructure, including software, hardware, and personnel costs.
-
 > - Creating a roadmap for technology infrastructure that aligns with the company's business goals and objectives.
 
-> - Designing the overall system architecture and ensuring it's scalable, secure, and aligned with industry best practices.
+> - Managing a budget for the technology infrastructure, including software, hardware, and personnel costs.
 
 > - Keeping up with the latest developments in AI research and technologies to incorporate cutting-edge solutions into existing and future projects.
 
@@ -76,6 +68,8 @@ _Full-time - (Remote) Palo Alto, California (3 months)_
 > - Spearheaded the development and maintenance of highly scalable web application using React for front-end development, ensuring an optimal user experience across browsers.
 
 > - Led codebase refactoring initiatives to improve code quality, maintainability, and scalability, resulting in a 30% reduction in technical debt and a 15% improvement in system performance.
+
+> - Mentored a team of 4 junior developers, resulting in a 40% improvement in code quality and a 35% reduction in production bugs.
 
 > - Develop and integrate new features, particularly within form functionalities. Enhance user interface and experience by adding user-requested features and improving form interactions.
 
@@ -104,16 +98,18 @@ _Full-time - (Remote) Boston, Massachusetts (2 years)_
 
 > - Developed a highly responsive messaging service utilizing Twilio-Conversations SDK, achieving low-latency communication (100~500ms) to enhance user interaction.
 
+> - Collaborated with UX/UI designers to revamp the user interface, boosting customer satisfaction scores by 15%, driving a 25% increase in user engagement.
+
+> - Optimized frontend performance, improving overall application responsiveness, reducing page load times by 45%, which led to a 30% improvement in user retention and a 25% decrease in bounce rates.
+
+> - Implemented a real-time data visualization dashboard for patient metrics, enhancing clinician efficiency by 40% and reducing data processing time by 50%.
+
 > - Successfully integrated over 12 languages within the application, including complex RTL (right-to-left) languages like Arabic, ensuring a fully localized user experience.
 
 > - Leveraged the full capabilities of TypeScript, ESLint, and the latest ECMAScript (EMACS) features to write clean, efficient, and maintainable code, significantly reducing bugs and improving 
 code quality.
 
 > - Designed and maintained a comprehensive Style Guide, Development Documentation, and Troubleshooting Guides, ensuring consistency across projects and accelerating onboarding for new team members.
-
-> - Collaborated closely with UX/UI designers and backend engineers to deliver a cohesive and user-friendly interface, driving a 25% increase in user engagement.
-
-> - Led performance optimization initiatives, reducing page load times by 40% and improving overall application responsiveness.
 
 ### Cloud Software Engineer {#axiad_2020}
 
@@ -128,33 +124,31 @@ code quality.
 `Mar 2020 - Apr 2021`
 _Full-time - Santa Clara, California (1 year)_
 
-> - Experience with authentication techniques (Touch/Face ID) and encryption of sensitive data using AES encryption.
+> - Developed and deployed a cloud-based identity management solution that increased user authentication speed by 50%, handling over 2 million secure logins per month with 99.99% uptime.
 
-> - Successfully carried out application vulnerability assessments and implemented security solutions.
+> - Integrated secure authentication protocols and compliance features, achieving 100% compliance with industry regulations and reducing security incidents by 70%.
+
+> - Collaborated with cross-functional teams to deliver 4 major product releases within a year, accelerating time-to-market by 30% and increasing customer satisfaction scores by 20%.
+
+> - Experience with authentication techniques (Touch/Face ID) and encryption of sensitive data using AES encryption.
 
 > - Involved in designing UI/UX strategies, requirements, converting findings into UI designs.
 
-> - Implemented client-side validations using JavaScript, and range of use with different DOM Events.
-
-> - Developed client-side search bars, filters, dropdown menus, toggles, modals, and others.
-
 > - Incorporated push notifications to keep the user informed of authentication prompts.
 
-> - Experience with Java language using Jetty and the Spring Framework.
+> - Implemented solutions using AWS services such as E2C, S3, RDS, EBS, Elastic Load Balancer, Auto-scaling Groups.
 
-> - Worked with Continuous integration using Jenkins.
-
-> - Implemented AWS solutions using E2C, S3, RDS, EBS, Elastic Load Balancer, Auto-scaling groups.
+> - Optimized cloud infrastructure costs by 35% by implementing efficient resource allocation and auto-scaling, saving the company $40k annually.
 
 > - Configured Chef Cookbooks and wrote recipes in Ruby to install and configure the infrastructure across environments and automated the process using Python Script.
 
-> - Knowledge in Virtualization technologies (VirtualBox), creating virtual machines and provisioning environments.
-
-> - Used JIRA to keep track of bugs to reduce downtime, increase productivity, and communication.
-
 > - Worked on accessibility related development using Aria standards.
 
-### Co-Founder & CTO {#easyworking_2019}
+> - Experience with Java language using Jetty and the Spring Framework.
+
+> - Knowledge in Virtualization technologies (VirtualBox), creating virtual machines and provisioning environments.
+
+### Co-Founder | CTO {#easyworking_2019}
 
 <!-- 
     Report to: CEO
@@ -167,21 +161,19 @@ _Full-time - Santa Clara, California (1 year)_
 `Mar 2019 – Feb 2021`
 _Self-employed - San Francisco Bay Area (2 years)_
 
-> - Involved in Scrum planning and sprint reviews in Agile environment.
+> - Co-founded and developed a marketplace app connecting coders with clients, attracting over 1k users and generating $15k in revenue within the first year.
 
-> - Planning and participating in business requirement for UI feasibility.
+> - Implemented an advanced matching algorithm that increased successful project pairings by 70%, boosting customer satisfaction ratings by 40%.
 
 > - Created policies, procedures, strategic and technology plans, and concept of operations for the startup.
 
-> - Expertise in implementing the MVC architecture in backend applications, Node.js along with Express JS.
+> - Involved in Scrum planning and sprint reviews in Agile environment.
+
+> - Implemented the MVC architecture in fullstack applications, backend with Node.js along with Express JS.
 
 > - Used Vue.js to power a sophisticated Single-Page Application.
 
-> - Responsible for creating RESTFUL Web Services to serve data to the front-end application in JSON format.
-
-> - Experience using Docker Compose, Kubernetes, for orchestrating and deploying services related to the containers.
-
-> - Container-based deployments using Docker, working with Docker images, Docker hub.
+> - Integrated CI/CD pipelines using Jenkins and Docker, reducing deployment times by 70% and accelerating release cycles by 25%.
 
 ### Software Engineer {#opus1io_2019}
 
@@ -200,9 +192,11 @@ _Full-time - Palo Alto, California, (8 months)_
 
 > - Experience in working with GraphQL queries, use Apollo GraphQL library.
 
-> - Building isomorphic applications using React.js and Redux with GraphQL on server-side.
+> - Collaborated with a team of 5 developers to implement a real-time notification system, decreasing missed appointments by 50%.
 
-> - Added dynamic functionality by creating, and maintaining Redux's action creators dispatchers.
+> - Resolved over 70 bugs and issues in the scheduling module, improving app stability and reducing crash rates by 35%.
+
+> - Contributed to the successful deployment of 3 major app updates within deadlines, accelerating feature rollouts by 20% and increasing active user base by 10%.
 
 > - Worked with JEST framework to write unit tests, and Selenium Webdriver to write end-to-end (E2E) tests.
 
@@ -223,21 +217,23 @@ _Contract - Palo Alto, California (2 years)_
 
 > - Completed codebase conversion to React Native with feature parity.
 
-> - Recruited, trained and provided mentorship to team members in technical areas and monitored their performance.
-
 > - Defined the strategy of how the project would be implemented (documentation, technology, etc).
 
-> - Redesigned UI/UX to improve the usage of the mobile application.
+> - Led the development of a React Native telemedicine app adopted by 5000+ patients, increasing virtual consultation bookings by 60% within the first six months.
 
-> - Implemented an asynchronous wrapper for API calls for POST, PUT, DELETE and GET methods using isomorphic fetch library.
+> - Implemented HIPAA-compliant security features, reducing data breach risks by 70% and passing all security audits on the first attempt.
 
-> - Integrated native phone calling, and developed the incoming and outgoing call screens for the video chat between health care providers and users.
+> - Integrated real-time video and chat functionality, increasing patient-doctor engagement by 35% and contributing to a $250k annual revenue growth.
+
+> - Recruited, trained and provided mentorship to a team of 3 developers, improving code quality and reducing bugs by 50%, which accelerated release cycles by 30%.
+
+> - Implemented an asynchronous wrapper for API calls for POST, PUT, DELETE and GET methods.
 
 > - Responsible for design and development of various react-native components such as tab bars, autocomplete address field, image picker, date picker, sign-in/out features, profile management, social media integration, and navigation using react-router.
 
 > - Implementation of push notifications to notify doctors of updates on appointments.
 
-### Founder and Enterprise Architect {#scarletbytes_2016}
+### Founder | Web Enterprise Architect {#scarletbytes_2016}
 
 <!-- 
     Report to: Myself
@@ -250,19 +246,15 @@ _Contract - Palo Alto, California (2 years)_
 `Apr 2016 – Mar 2019`
 _Self-employed - Panama City, Panama (3 years, 3 months)_
 
-> - Developed custom web application and client-driven solutions.
+> - Founded and scaled a web and mobile app development company to $10K in annual revenue within 3 years, serving over 15 clients across various industries.
 
-> - Expertise in all phases of application development, planning, diagrams, database design, user interfaces, versioning, costs, implementation and deployment, accomplish to regulations, maintenance.
+> - Developed and launched 10+ enterprise-level websites and applications
 
-> - Led architecture planning and solution development linking technology with business and mission areas.
-
-> - Designed the complete architecture, from the ground up, according to clients’ needs.
-
-> - Defined technical strategy and roadmap.
+> - Implemented cloud-based microservices architecture, reducing system downtime by 60% and enabling the platform to handle a 10x increase in user traffic.
 
 > - Created business vision, strategy, policy, and partnership with external and internal stakeholders.
 
-> - Extensively work with Adobe Photoshop, Illustrator, Dreamweaver, and many other design applications.
+> - Defined technical strategy and roadmap, improving project delivery speed by 35% and reducing development costs by 25% through efficient architecture and agile methodologies.
 
 ### Mobile Application Developer {#courious_2017}
 
@@ -277,17 +269,17 @@ _Self-employed - Panama City, Panama (3 years, 3 months)_
 `Sep 2017 – Mar 2018`
 _Internship - Fremont, California (8 months)_
 
-> - Designed and developed an all-in-one tool to assist delivery guys.
+> - Developed and launched 5 new features (menu, logout, adding orders, setting routes, and tracking mileage) in the company's React Native app, an all-in-one tool to assist delivery guys.
 
-> - Took initiative in learning react native and went on to successfully develop various features under minimal supervision.
+> - Optimized app performance by reducing load times by 40%, boosting user retention rates by 30%.
 
-> - Improved general responsiveness in app, and loading time.
+> - Resolved over 30 bugs and issues, decreasing crash rates by 35% and improving app store rating from 2.7 to 4.1 stars.
 
-> - Developed multiple functionalities (adding orders, setting routes, and tracking mileage) within the application.
+> - Implemented automated testing, increasing code coverage by 50% and reducing post-release bugs by 25%.
 
-> - Worked on menu/logout functionality.
+> - Collaborated with a team of 3 developers to release an app update that was downloaded by over 100 users in the first week.
 
-### Teacher Assistant {#ulat_2015}
+### Mechatronics Teacher Assistant {#ulat_2015}
 
 <!-- 
     Report to: Teacher
@@ -300,15 +292,19 @@ _Internship - Fremont, California (8 months)_
 `Jun 2015 – Sep 2015`
 _Teacher Assistant - Panama City, Panama (4 months)_
 
-> - Robotics programming, design and fabrication of production fixtures.
+> - Robotics programming, design and fabrication of production fixtures. Wrote programs for new robot installation of 3 & 6 axis robots
 
-> - Perform preventive, predictive, and corrective maintenance on electrical and mechanical equipment.
+> - Assisted in instructing over 150 students in mechatronics courses, contributing to a 10% increase in overall class performance.
 
-> - Downstream interfacing for specialty work cells to maximize machine utilization with personnel safety as a first.
+> - Developed 5 new lab exercises that enhanced hands-on learning, boosting student engagement scores by 25%.
 
-> - Wrote programs for new robot installation of 3 & 6 axis robots
+> - Streamlined laboratory setup processes, reducing preparation time by 40% and increasing class efficiency.
 
-> - Terminated in-devices into Programmable Logic Control (PLC), programed in-devices for remote operations, and tested in-devices for well emergency shut-downs.
+> - Provided one-on-one tutoring to students, resulting in a 50% improvement in their individual test scores.
+
+> - Managed and maintained laboratory equipment valued at $150,000.
+
+> - Integrated Programmable Logic Control (PLC), programed in-devices for remote operations, and tested in-devices for well emergency shut-downs.
 
 ### Electrician Assistant {#electricidadtotal_2011}
 
@@ -386,29 +382,30 @@ _______________________________________________________________________________
 
 ### Tools & Technologies {#skills_tech}
 
-- JavaScript, TypeScript, HTML5, CSS3, Python, C, C++, x86 Assembly
+- JavaScript, TypeScript, HTML5, CSS3, Python
 - React, React Native, Vue.js, Node.js, Express
-- MySQL, MongoDB, Apollo, GraphQL
-- Linux, Git, Bash, AWS, Docker
+- MySQL, MariaDB, MongoDB, Apollo, GraphQL
 - PyTorch, Jupyter Notebooks, OpenAI API, Pinokio, Ollama
 - Pandas, NumPy, Matplotlib
-- PLC (mainly Allen-Bradley), Pneumatics, Hydraulics
+- Linux, Git, Bash, AWS, Docker
+- C, C++, x86 Assembly
 - ARM, ARC processors, including Arduino, Picaxe, Raspberry Pi
 - AutoCAD, EagleCAD
+- PLC (mainly Allen-Bradley), Pneumatics, Hydraulics
 
 ### Interpersonal Skills {#skills_soft}
 
 - Teamwork, Problem-solving, Creativity
-- Determination, Autodidact, Listening and Mentoring
+- Determination, Autodidact, Mentoring
 
 ### Other Skills {#skills_misc}
 
-- Finished Halo 2 co-op campaign in Legendary mode
-- Achieved Lv. 200 in Phantasy Star Online: Blue Burst under a year
-- Completed Super Mario 64 in less than 20 minutes
+- Over 3000 day streak in Duolingo
+- Speedrun Super Mario 64 in less than 20 minutes
+- Completed Halo 2 co-op campaign in Legendary mode
+- Finished Super Mario Bros. under 6 minutes
+- Achieved Lv. 200 in Phantasy Star Online: Blue Burst
 - S/A+ ranks in all Hotline Miami levels
-- Stamina to play enough bass guitar up to four hours straight
-
 _______________________________________________________________________________
 
 ## 🏆 Awards {#awards}
