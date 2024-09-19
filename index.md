@@ -57,7 +57,7 @@ _Founder - Atlanta, Georgia (1 year)_
 <!-- 
     Report to: CEO & Lead Engineer
     Stack: React, Python, Rust, AWS, GraphQL, TypeScript
-    Exit: Change of role from remote to hybrid. Not willing to move to California. Fiance breakup.
+    Exit: Change of role from remote to hybrid, didn't moved to California.
 -->
 
 ![opus1io](media/images/opus1io.png)
@@ -82,7 +82,7 @@ _Full-time - (Remote) Palo Alto, California (3 months)_
 <!-- 
     Report to: VP of Engineering
     Stack: React, Remix, Gatsby, AWS, Python, JavaScript, Node.JS
-    Exit: Company got adquired, IPO shortly. Change of team structure, my position was deleted.
+    Exit: Company got acquired, IPO shortly. Change of team structure, my position was deleted.
 -->
 
 ![allurion](media/images/allurion.jpeg)
@@ -152,7 +152,7 @@ _Full-time - Santa Clara, California (1 year)_
 
 <!-- 
     Report to: CEO
-    Stack: Meteor, React.JS, Redux, TypeScript, Node.JS
+    Stack: Meteor, Vue.JS, Redux, TypeScript, Node.JS, GCP
     Exit: Corporation dissolved after 2 years.
 -->
 
@@ -179,8 +179,8 @@ _Self-employed - San Francisco Bay Area (2 years)_
 
 <!-- 
     Report to: CEO & Lead Engineer
-    Stack: React, Python, GraphQL
-    Exit: Change of team structure. Got new job at Axiad.
+    Stack: React, Python, GraphQL, Postman
+    Exit: Started new position at Axiad.
 -->
 
 ![opus1.io](media/images/opus1io.png)
@@ -206,8 +206,8 @@ _Full-time - Palo Alto, California, (8 months)_
 
 <!-- 
     Report to: CTO
-    Stack: ReactNative, AWS
-    Exit: Got new job at Axiad.
+    Stack: ReactNative, AWS, PHP, CodeIgnite, Quickblox
+    Exit: Started new position at Axiad.
 -->
 
 ![vemidoc](media/images/vemidoc.jpg)
@@ -238,7 +238,7 @@ _Contract - Palo Alto, California (2 years)_
 <!-- 
     Report to: Myself
     Stack: HTML5, CSS3, JS, PHP, Ruby, RedHat Linux, Cloudflare
-    Exit: Change of team structure. Got new job at Axiad.
+    Exit: Dissolved business after 3 years. Focused on other positions.
 -->
 
 ![scarlet bytes](media/images/scarletbytes.png)
@@ -260,8 +260,8 @@ _Self-employed - Panama City, Panama (3 years, 3 months)_
 
 <!-- 
     Report to: Senior Engineer
-    Stack: ReactNative, Redux
-    Exit: Done with MVP, started working at Vemidoc.
+    Stack: ReactNative, Redux, RealmDB
+    Exit: Done with App MVP phase and end of internship, began working at Vemidoc.
 -->
 
 ![courious](media/images/courious.png)
@@ -311,7 +311,7 @@ _Teacher Assistant - Panama City, Panama (4 months)_
 <!-- 
     Report to: Business owner
     Stack: N/A
-    Exit: Studying Mechatronics bachelor while getting first job experience.
+    Exit: Enrolled in university to study a bachelor's in Mechatronics engineering.
 -->
 
 ![electricidad total](https://via.placeholder.com/100/afdde9/fefefe?text=E){:target="_blank"}
