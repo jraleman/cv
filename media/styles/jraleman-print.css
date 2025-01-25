@@ -4,13 +4,15 @@ hr {
 }
 
 blockquote, q {
-	font-size: 0.65em !important;
+	font-size: 0.95em !important;
 	width: 95%;
 }
 
 ul, li {
 	padding-left: 4em;
-	font-size: 0.65em !important;
+	font-size: 0.95em !important;
+	padding-bottom: 0.25em;
+	padding-top: 0.25em;
 }
 
 em {
@@ -30,7 +32,7 @@ p {
 	position: relative;
 	margin-right: 0;
 	margin-left: 1.75em;
-	font-size: 0.825em;
+	font-size: 0.925em;
 }
 
 code {
@@ -95,7 +97,7 @@ h1+p {
 }
 
 p a {
-	font-size: 0.85em;
+	font-size: 0.95em;
 }
 
 h2 {

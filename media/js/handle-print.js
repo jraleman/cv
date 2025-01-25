@@ -1,12 +1,12 @@
-import { hideSectionById } from './utils.js';
+// import { hideSectionById } from './utils.js';
 
 const handlePrint = function (e) {
   window.alert('Remember to change email and phone values! :)')
   const delim = 'HR';
-  hideSectionById("about", delim);
-  hideSectionById("awards", delim);
-  hideSectionById("skills_misc", delim);
-  hideSectionById("languages", delim);
+  // hideSectionById("about", delim);
+  // hideSectionById("awards", delim);
+  // hideSectionById("skills_misc", delim);
+  // hideSectionById("languages", delim);
 }
 
 const reloadPage = function (e) {

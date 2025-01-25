@@ -321,7 +321,7 @@ _Teacher Assistant - Panama City, Panama (4 months)_
     Stack: N/A
 -->
 
-![electricidad total](https://via.placeholder.com/100/afdde9/fefefe?text=E){:target="_blank"}
+![electricidad total](media/images/electricidad_total.png){:target="_blank"}
 __Electricidad Total__
 `Jan 2011 – Jun 2011`
 _Full-time - Panama City, Panama (6 months)_
