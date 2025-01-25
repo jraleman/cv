@@ -5,7 +5,7 @@ title: jraleman
 
 # Jose Ramon Aleman B.
 
-Sr. Software Engineer
+Senior Software Engineer
 
 [📱 (XXX) XXX-XXXX](tel:xxx-xxx-xxxx)
 · [📬 example@email.com](mailto:example@email.com)
@@ -23,18 +23,16 @@ _______________________________________________________________________________
 
 ## 👨‍💻 Experience {#experience}
 
-### Founder | A.I. Engineer {#raisga_2023}
+### A.I. Software Engineer {#raisga_2023}
 
 <!-- 
-    Resp: Myself
     Stack: React, ReactNative, Remix, Svelte, Ollama, Pinokio, HuggingFace, TypeScript
-    Exit: N/A
 -->
 
 ![raisga](media/images/raisga.png)
 [__Raisga__](https://www.raisga.com/){:target="_blank"}
 `May 2023 - Present`
-_Founder - Atlanta, Georgia (1 year)_
+_Business Owner - Marietta, Georgia (2 years)_
 
 > - Leading the development and integration of advanced AI technologies such as Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) systems, to enhance product offerings and create new market opportunities.
 
@@ -55,15 +53,13 @@ _Founder - Atlanta, Georgia (1 year)_
 ### Senior Software Engineer {#opus1io_2024}
 
 <!-- 
-    Report to: CEO & Lead Engineer
     Stack: React, Python, Rust, AWS, GraphQL, TypeScript
-    Exit: Change of role from remote to hybrid, didn't moved to California.
 -->
 
 ![opus1io](media/images/opus1io.png)
 [__Opus1.io__](https://www.opus1.io){:target="_blank"}
-`Feb 2024 - Apr 2024`
-_Full-time - (Remote) Palo Alto, California (3 months)_
+`Jan 2024 - Apr 2024`
+_Full-time - (Remote) Palo Alto, California (4 months)_
 
 > - Spearheaded the development and maintenance of highly scalable web application using React for front-end development, ensuring an optimal user experience across browsers.
 
@@ -80,9 +76,7 @@ _Full-time - (Remote) Palo Alto, California (3 months)_
 ### Frontend Software Engineer {#allurion_2021}
 
 <!-- 
-    Report to: VP of Engineering
     Stack: React, Remix, Gatsby, AWS, Python, JavaScript, Node.JS
-    Exit: Company got acquired, IPO shortly. Change of team structure, my position was deleted.
 -->
 
 ![allurion](media/images/allurion.jpeg)
@@ -114,9 +108,7 @@ code quality.
 ### Cloud Software Engineer {#axiad_2020}
 
 <!-- 
-    Report to: Engineering Manager
     Stack: React.JS, ReactNative, Java, Redux, AWS, TypeScript, OOP
-    Exit: Pandemic era. Moved to Illinois to help out my best friend.
 -->
 
 ![axiad](media/images/axiad.jpg)
@@ -151,9 +143,7 @@ _Full-time - Santa Clara, California (1 year)_
 ### Co-Founder | CTO {#easyworking_2019}
 
 <!-- 
-    Report to: CEO
     Stack: Meteor, Vue.JS, Redux, TypeScript, Node.JS, GCP
-    Exit: Corporation dissolved after 2 years.
 -->
 
 ![easyworking](media/images/easyworking.jpeg)
@@ -178,9 +168,7 @@ _Self-employed - San Francisco Bay Area (2 years)_
 ### Software Engineer {#opus1io_2019}
 
 <!-- 
-    Report to: CEO & Lead Engineer
     Stack: React, Python, GraphQL, Postman
-    Exit: Started new position at Axiad.
 -->
 
 ![opus1.io](media/images/opus1io.png)
@@ -205,9 +193,7 @@ _Full-time - Palo Alto, California, (8 months)_
 ### Lead Software Engineer {#vemidoc_2018}
 
 <!-- 
-    Report to: CTO
     Stack: ReactNative, AWS, PHP, CodeIgnite, Quickblox
-    Exit: Started new position at Axiad.
 -->
 
 ![vemidoc](media/images/vemidoc.jpg)
@@ -233,18 +219,16 @@ _Contract - Palo Alto, California (2 years)_
 
 > - Implementation of push notifications to notify doctors of updates on appointments.
 
-### Founder | Web Enterprise Architect {#scarletbytes_2016}
+### Web Enterprise Architect {#scarletbytes_2016}
 
 <!-- 
-    Report to: Myself
     Stack: HTML5, CSS3, JS, PHP, Ruby, RedHat Linux, Cloudflare
-    Exit: Dissolved business after 3 years. Focused on other positions.
 -->
 
 ![scarlet bytes](media/images/scarletbytes.png)
 [__Scarlet Bytes__](https://www.scarletbytes.com){:target="_blank"}
 `Apr 2016 – Mar 2019`
-_Self-employed - Panama City, Panama (3 years, 3 months)_
+_Self-employed - Panama City, Panama (3 years)_
 
 > - Founded and scaled a web and mobile app development company to $10K in annual revenue within 3 years, serving over 15 clients across various industries.
 
@@ -259,9 +243,7 @@ _Self-employed - Panama City, Panama (3 years, 3 months)_
 ### Mobile Application Developer {#courious_2017}
 
 <!-- 
-    Report to: Senior Engineer
     Stack: ReactNative, Redux, RealmDB
-    Exit: Done with App MVP phase and end of internship, began working at Vemidoc.
 -->
 
 ![courious](media/images/courious.png)
@@ -274,17 +256,44 @@ _Internship - Fremont, California (8 months)_
 > - Optimized app performance by reducing load times by 40%, boosting user retention rates by 30%.
 
 > - Resolved over 30 bugs and issues, decreasing crash rates by 35% and improving app store rating from 2.7 to 4.1 stars.
-
+ 
 > - Implemented automated testing, increasing code coverage by 50% and reducing post-release bugs by 25%.
 
 > - Collaborated with a team of 3 developers to release an app update that was downloaded by over 100 users in the first week.
 
+### Web and App Developer {#ubicate_2015}
+
+<!-- 
+    Stack: PHP, WordPress, jQuery, PhoneGap (Hybrid Apps)
+-->
+
+![ubicate](media/images/ubicate.png)
+[__Ubicate__](https://github.com/jraleman/ubicate){:target="_blank"}
+`Sep 2015 - Dec 2016`
+_Co-Founder - Panama City, Panama (1 year, 4 months)_
+
+> - Designed and developed a website and hybrid applications using WordPress as a core platform, integrating advanced plugins and themes to enhance functionality and user engagement.
+
+> - Implemented interactive features using jQuery and developed cross-platform mobile applications using PhoneGap, ensuring seamless performance across Android and iOS devices.
+
+> - Leveraged GeoDirectory for creating complex, location-based directories, enhancing user navigation and search capabilities within the applications.
+
+> - Customized and maintained the Whoop! theme for WordPress, optimizing site aesthetics and user interaction tailored to client specifications.
+
+> - Utilized Master Slider to create visually appealing, responsive sliders that improved the dynamic content presentation on client websites.
+
+> - Integrated ContactForm 7 to manage multiple contact forms, enabling efficient user communication and data collection processes.
+
+> - Enhanced websites’ social media connectivity using the Facebook Widget, increasing user engagement through direct interaction with social media feeds.
+
+> - Managed media files using Enhanced Media Library, optimizing the organization and retrieval of multimedia content for improved performance.
+
+> - Executed email marketing campaigns and managed subscriber lists with Mailchimp, analyzing campaign performance to optimize marketing strategies and increase outreach effectiveness.
+
 ### Mechatronics Teacher Assistant {#ulat_2015}
 
 <!-- 
-    Report to: Teacher
-    Stack: N/A
-    Exit: Completed school quarter term.
+    Stack: MELFA (Mitsubishi Robot Programming Language)
 -->
 
 ![universidad latina](media/images/ulat.jpeg)
@@ -309,9 +318,7 @@ _Teacher Assistant - Panama City, Panama (4 months)_
 ### Electrician Assistant {#electricidadtotal_2011}
 
 <!-- 
-    Report to: Business owner
     Stack: N/A
-    Exit: Enrolled in university to study a bachelor's in Mechatronics engineering.
 -->
 
 ![electricidad total](https://via.placeholder.com/100/afdde9/fefefe?text=E){:target="_blank"}
@@ -319,14 +326,13 @@ __Electricidad Total__
 `Jan 2011 – Jun 2011`
 _Full-time - Panama City, Panama (6 months)_
 
-
 > - Assisted in installing electrical systems in over 20 residential and commercial projects, contributing to a 15% reduction in project completion time.
 
 > - Maintained a perfect safety record over 6 months by strictly adhering to safety protocols, resulting in zero workplace accidents.
 
 > - Optimized work area setup and material preparation, increasing team efficiency and reducing downtime between tasks.
 
-> - Supported troubleshooting on 100+ electrical issues with a 95% resolution rate on the first attempt, enhancing customer satisfaction scores by 10%.
+> - Supported troubleshooting on 100+ electrical issues with a 95% resolution rate, enhancing customer satisfaction scores.
 
 > - Implemented an inventory management system that reduced tool loss, saving company budget.
 
@@ -351,7 +357,7 @@ _______________________________________________________________________________
 <br />
 
 `2015 – 2018`
-![universidad latina](media/images/ulat.jpeg)
+![universidad latina](media/images/ulat_cep.png)
 [__Latin University of Panama 🇵🇦__](https://ulatina.edu.pa/){:target="_blank", #ulat_2018}
 - Master of Business Administration (M.B.A.)
 
@@ -371,7 +377,7 @@ _______________________________________________________________________________
 
 <br />
 
-`1997 – 2010`
+`2010`
 ![panamerican schnool](media/images/pas.jpg)
 [__Panamerican School 🇵🇦__](http://panamericanschool-pa.net/index.php){:target="_blank", #pas_2010}
 - High School Degree, Specialty in Science and Informatics
@@ -400,7 +406,7 @@ _______________________________________________________________________________
 
 ### Other Skills {#skills_misc}
 
-- Over 3000 day streak in Duolingo
+- Over +3000 day streak in Duolingo
 - Speedrun Super Mario 64 in less than 20 minutes
 - Completed Halo 2 co-op campaign in Legendary mode
 - Finished Super Mario Bros. under 6 minutes
