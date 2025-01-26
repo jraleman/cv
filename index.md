@@ -299,7 +299,7 @@ _Co-Founder - Panama City, Panama (1 year, 4 months)_
 ![universidad latina](media/images/ulat.jpeg)
 [__Latin University of Panama__](https://ulatina.edu.pa/){:target="_blank"}
 `Jun 2015 – Sep 2015`
-_Teacher Assistant - Panama City, Panama (4 months)_
+_Part-time - Panama City, Panama (4 months)_
 
 > - Robotics programming, design and fabrication of production fixtures. Wrote programs for new robot installation of 3 & 6 axis robots
 
@@ -344,7 +344,7 @@ _______________________________________________________________________________
 
 `2021 – 2022`
 ![upc](media/images/upc.png)
-[__UPC School (Universitat Politècnica de Catalunya) 🇪🇸__](https://www.upc.edu/en){:target="_blank", #upc_2022}
+[__Universitat Politècnica de Catalunya 🇪🇸__](https://www.upc.edu/en){:target="_blank", #upc_2022}
 - Postgraduate Degree, Quantum Engineering
 
 <br />
@@ -412,6 +412,7 @@ _______________________________________________________________________________
 - Finished Super Mario Bros. under 6 minutes
 - Achieved Lv. 200 in Phantasy Star Online: Blue Burst
 - S/A+ ranks in all Hotline Miami levels
+
 _______________________________________________________________________________
 
 ## 🏆 Awards {#awards}
