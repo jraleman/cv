@@ -5,7 +5,7 @@ title: jraleman
 
 # Jose Ramon Aleman B.
 
-Senior Software Engineer
+Software Engineer
 
 [📱 (XXX) XXX-XXXX](tel:xxx-xxx-xxxx)
 · [📬 example@email.com](mailto:example@email.com)
@@ -13,11 +13,11 @@ Senior Software Engineer
 
 ## ℹ️ About {#about}
 
-Hello, I'm Jose Ramon Aleman, a 🇵🇦/🇺🇸 software engineer with a strong background in Frontend Development, UI/UX design, Cloud Infrastructure, and Embedded Systems, including low-level programming. Over the years, by solving different problems in a logical and clear way, I came to be recognized as a reliable and resourceful engineer.
 
-Career highlights include responsibility for scalable web and mobile applications in various industries, integration of AI-driven solutions to enhance user experiences, optimization of cloud-based infrastructures to ensure efficiency and cost-effectiveness.
-
-I am committed to continuous learning and to an ever-advancing skill set-from the latest technological advancements to everything that relates to modern web development, mobile apps, cloud solutions, and AI technologies. This dedication to self-improvement ensures that I am able to stay on top of the constantly changing technology.
+Hola, I’m Jose Ramon, a software engineer with over a decade of experience delivering scalable web and mobile applications across diverse industries.
+My background includes building amazing software solutions and tools, cloud-based infrastructures, integrating AI-driven solutions, and optimizing system performance to create innovative user experiences.
+I’m passionate about continuous learning and staying current with the latest developments technology.
+This dedication ensures I can tackle complex challenges and drive impactful results for any team or project I’m involved with.
 
 _______________________________________________________________________________
 
@@ -88,7 +88,7 @@ _Full-time - (Remote) Boston, Massachusetts (2 years)_
 
 > - Expertly managed state using Redux, implementing custom hooks to streamline complex state management tasks and improve application performance.
 
-> - Engineered a robust video consultation system using Twilio-Video SDK, with advanced features such as real-time call history retrieval, ensuring seamless user experience.
+> - Engineered a robust video consultation system using Twilio-Video SDK, with advanced features, saving over $750K on business budget.
 
 > - Developed a highly responsive messaging service utilizing Twilio-Conversations SDK, achieving low-latency communication (100~500ms) to enhance user interaction.
 
@@ -108,7 +108,7 @@ code quality.
 ### Cloud Software Engineer {#axiad_2020}
 
 <!-- 
-    Stack: React.JS, ReactNative, Java, Redux, AWS, TypeScript, OOP
+    Stack: React.JS, ReactNative, Java, Redux, AWS, TypeScript
 -->
 
 ![axiad](media/images/axiad.jpg)
@@ -159,11 +159,19 @@ _Self-employed - San Francisco Bay Area (2 years)_
 
 > - Involved in Scrum planning and sprint reviews in Agile environment.
 
-> - Implemented the MVC architecture in fullstack applications, backend with Node.js along with Express JS.
-
-> - Used Vue.js to power a sophisticated Single-Page Application.
+> - Headed the design and development of a full-stack platform using Meteor, Vue.js, Redux, TypeScript, NodeJS and ExpressJS, ensuring high performance and scalability.
 
 > - Integrated CI/CD pipelines using Jenkins and Docker, reducing deployment times by 70% and accelerating release cycles by 25%.
+
+> - Led the technical strategy and product roadmap, aligning architecture decisions with long-term business goals and market needs.
+
+> - Implemented and optimized infrastructure on Google Cloud Platform (GCP), leveraging Kubernetes, Compute Engine, and Cloud Storage for cost-effective scalability and reliability.
+
+> - Established coding standards and best practices to maintain code quality and accelerate team productivity.
+
+> - Developed robust CI/CD pipelines, automating testing and deployment processes to ensure rapid, error-free releases.
+
+> - Analyzed user feedback and system metrics, using data-driven insights to refine product features and improve performance.
 
 ### Software Engineer {#opus1io_2019}
 
@@ -176,7 +184,7 @@ _Self-employed - San Francisco Bay Area (2 years)_
 `Jul 2019 – Feb 2020` 
 _Full-time - Palo Alto, California, (8 months)_
 
-> - Implemented stable React.js components and containers, and stand-alone, helper functions for multiple pages.
+> - Implemented stable ReactJS components and containers, and stand-alone, helper functions for multiple pages.
 
 > - Experience in working with GraphQL queries, use Apollo GraphQL library.
 
@@ -211,11 +219,19 @@ _Contract - Palo Alto, California (2 years)_
 
 > - Integrated real-time video and chat functionality, increasing patient-doctor engagement by 35% and contributing to a $250k annual revenue growth.
 
-> - Recruited, trained and provided mentorship to a team of 3 developers, improving code quality and reducing bugs by 50%, which accelerated release cycles by 30%.
+> - Mentored 3 junior engineers and guided their professional development through pair programming, code reviews, and knowledge-sharing sessions.
+
+> - Improved code quality and reduced bugs by 50%, which accelerated release cycles by 30%.
 
 > - Implemented an asynchronous wrapper for API calls for POST, PUT, DELETE and GET methods.
 
-> - Responsible for design and development of various react-native components such as tab bars, autocomplete address field, image picker, date picker, sign-in/out features, profile management, social media integration, and navigation using react-router.
+> - Managed cloud infrastructure on AWS, leveraging services such as EC2, S3, and Lambda to ensure application scalability and reliability.
+
+> - Led back-end development in PHP and the CodeIgniter framework, establishing best coding practices and standards for robust, maintainable codebases.
+
+> - Integrated and optimized QuickBlox for real-time chat and video functionalities, enhancing end-user communication and collaboration features.
+
+> - Responsible for design and development of various React Native components such as tab bars, autocomplete address field, image picker, date picker, sign-in/out features, profile management, social media integration, and navigation using react-router.
 
 > - Implementation of push notifications to notify doctors of updates on appointments.
 
@@ -230,13 +246,23 @@ _Contract - Palo Alto, California (2 years)_
 `Apr 2016 – Mar 2019`
 _Self-employed - Panama City, Panama (3 years)_
 
-> - Founded and scaled a web and mobile app development company to $10K in annual revenue within 3 years, serving over 15 clients across various industries.
+> - Founded and scaled a web and mobile app development consulting company to $10K in annual revenue within 3 years, serving over 15 clients across various industries.
 
-> - Developed and launched 10+ enterprise-level websites and applications
+> - Developed and launched enterprise-level websites and applications
 
 > - Implemented cloud-based microservices architecture, reducing system downtime by 60% and enabling the platform to handle a 10x increase in user traffic.
 
 > - Created business vision, strategy, policy, and partnership with external and internal stakeholders.
+
+> - Developed and maintained back-end services in PHP and Ruby, ensuring scalable and reliable application layers for enterprise clients.
+
+> - Configured and administered production environments on RedHat Linux, applying best practices in system security, performance optimization, and high availability.
+
+> - Integrated and optimized Cloudflare services for CDN, load balancing, and DDoS protection, enhancing site speed and security.
+
+> - Led end-to-end technical planning, including requirement analysis, solution design, and implementation for complex enterprise projects.
+
+> - Maintained thorough documentation of system architecture, infrastructure configurations, and development processes for knowledge transfer and audit compliance.
 
 > - Defined technical strategy and roadmap, improving project delivery speed by 35% and reducing development costs by 25% through efficient architecture and agile methodologies.
 
@@ -255,11 +281,15 @@ _Internship - Fremont, California (8 months)_
 
 > - Optimized app performance by reducing load times by 40%, boosting user retention rates by 30%.
 
-> - Resolved over 30 bugs and issues, decreasing crash rates by 35% and improving app store rating from 2.7 to 4.1 stars.
- 
 > - Implemented automated testing, increasing code coverage by 50% and reducing post-release bugs by 25%.
 
 > - Collaborated with a team of 3 developers to release an app update that was downloaded by over 100 users in the first week.
+
+> - Integrated RealmDB for robust offline data storage and synchronization, ensuring reliable performance in varied network conditions.
+
+> - Leveraged Android and Java to build and maintain native modules, enhancing performance-critical features and optimizing device-specific integrations.
+
+> - Resolved over 30 bugs and issues, decreasing crash rates by 35% and improving app store rating from 2.7 to 4.1 stars.
 
 ### Web and App Developer {#ubicate_2015}
 
@@ -305,15 +335,19 @@ _Part-time - Panama City, Panama (4 months)_
 
 > - Assisted in instructing over 150 students in mechatronics courses, contributing to a 10% increase in overall class performance.
 
-> - Developed 5 new lab exercises that enhanced hands-on learning, boosting student engagement scores by 25%.
+> - Developed 5 new lab exercises that enhanced hands-on learning, boosting student engagement scores by 15%.
 
 > - Streamlined laboratory setup processes, reducing preparation time by 40% and increasing class efficiency.
 
 > - Provided one-on-one tutoring to students, resulting in a 50% improvement in their individual test scores.
 
-> - Managed and maintained laboratory equipment valued at $150,000.
+> - Managed and maintained laboratory equipment valued at $150K.
 
 > - Integrated Programmable Logic Control (PLC), programed in-devices for remote operations, and tested in-devices for well emergency shut-downs.
+
+> - Utilized MELFA (Mitsubishi Robot Programming Language) to demo fundamental robotics programming concepts, including path planning, motion control, and sensor integration.
+
+> - Supported students in troubleshooting robotic arm configurations and software-related issues, ensuring smooth and safe operation.
 
 ### Electrician Assistant {#electricidadtotal_2011}
 
@@ -388,30 +422,51 @@ _______________________________________________________________________________
 
 ### Tools & Technologies {#skills_tech}
 
-- JavaScript, TypeScript, HTML5, CSS3, Python
-- React, React Native, Vue.js, Node.js, Express
-- MySQL, MariaDB, MongoDB, Apollo, GraphQL
-- PyTorch, Jupyter Notebooks, OpenAI API, Pinokio, Ollama
-- Pandas, NumPy, Matplotlib
-- Linux, Git, Bash, AWS, Docker
-- C, C++, x86 Assembly
-- ARM, ARC processors, including Arduino, Picaxe, Raspberry Pi
-- AutoCAD, EagleCAD
-- PLC (mainly Allen-Bradley), Pneumatics, Hydraulics
+- Programming Languages
+    - JavaScript, TypeScript, Python, PHP, Ruby, Java, C, C++, (some) x86 Assembly
+- Front-End & Mobile
+    - HTML5, CSS3, ReactJS, Redux, VueJS, Svelte, jQuery, React Native, PhoneGap (Hybrid Apps), Kotlin, Swift4
+- Back-End & APIs
+    - NodeJS, ExpressJS, Apollo, GraphQL, Postman, CodeIgniter
+- Databases
+    - PostgreSQL, MySQL, MariaDB, MongoDB, RealmDB
+- Machine Learning & AI
+    - PyTorch, Jupyter Notebooks, OpenAI API, Pinokio, Ollama, Pandas, NumPy, HuggingFace
+- DevOps & Infrastructure
+    - Linux (Arch, Debian, Fedora/RedHat Based), Bash, Git, AWS, GCP, Docker, Cloudflare
+- CMS & Other Frameworks:
+    - Gatsby, Remix, NextJS, WordPress, CosmicJS, Meteor
+- Embedded & Hardware
+    - ARM, ARC processors, Arduino, Picaxe, Raspberry Pi
+- CAD & Industrial Systems
+    - AutoCAD, EagleCAD
+- Robotics & Automation:
+    - MELFA (Mitsubishi Robot Programming Language), PLC (Festo, Allen-Bradley), Pneumatics, Hydraulics
 
 ### Interpersonal Skills {#skills_soft}
 
-- Teamwork, Problem-solving, Creativity
-- Determination, Autodidact, Mentoring
+- Teamwork & Collaboration
+    - Ability to work seamlessly with cross-functional teams, build rapport quickly, and foster a supportive, cooperative environment.
+- Problem-Solving & Creativity
+    - Skilled at breaking down complex issues, brainstorming innovative solutions, and applying design thinking to achieve optimal results.
+- Leadership & Mentoring
+    - Experience guiding teams through challenging projects, delegating tasks effectively, and providing constructive feedback to promote professional growth.
+- Adaptability & Determination
+    - Highly resilient in the face of change, quickly adjusts to new tools and processes, and remains goal-oriented under pressure.
+- Communication & Emotional Intelligence
+    - Proficient in active listening, conflict resolution, and empathetic engagement, ensuring clarity and positive relationships.
+- Self-Learning & Curiosity
+    - Driven by continuous self-improvement, staying current with emerging technologies, and proactively seeking new knowledge and skills.
 
 ### Other Skills {#skills_misc}
 
-- Over +3000 day streak in Duolingo
-- Speedrun Super Mario 64 in less than 20 minutes
+- Over 3K day streak in Duolingo
+- Able to speedrun Super Mario 64 in less than 20 minutes
 - Completed Halo 2 co-op campaign in Legendary mode
-- Finished Super Mario Bros. under 6 minutes
-- Achieved Lv. 200 in Phantasy Star Online: Blue Burst
-- S/A+ ranks in all Hotline Miami levels
+- Finished a Super Mario Bros. run under 6 minutes
+- Made over 30 The Legend of Zelda: Ocarina of Time Randomizer runs
+- Under a year achieved Lv. 200 in Phantasy Star Online: Blue Burst
+- Been playing RuneScape for over 20 years
 
 _______________________________________________________________________________
 
