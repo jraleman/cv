@@ -14,7 +14,7 @@ Software Engineer
 ## ℹ️ About {#about}
 
 
-Hola, I’m Jose Ramon, a software engineer with over a decade of experience delivering scalable web and mobile applications across diverse industries.
+Hola, I’m Jose Ramon, a software engineer with over eight of experience delivering scalable web and mobile applications across diverse industries.
 My background includes building amazing software solutions and tools, cloud-based infrastructures, integrating AI-driven solutions, and optimizing system performance to create innovative user experiences.
 I’m passionate about continuous learning and staying current with the latest developments technology.
 This dedication ensures I can tackle complex challenges and drive impactful results for any team or project I’m involved with.
