@@ -3,27 +3,21 @@ layout: cv
 title: jraleman
 ---
 
-# Jose Ramon Aleman B.
+# Jose Ramon Aleman Bendiburg
 
-Software Engineer
-
-[📱 (XXX) XXX-XXXX](tel:xxx-xxx-xxxx)
-· [📬 example@email.com](mailto:example@email.com)
-· [🧳 jraleman.com](https://jraleman.com)
+Senior Software Engineer
 
 ## ℹ️ About {#about}
 
-
 Hola, I’m Jose Ramon, a software engineer with over eight of experience delivering scalable web and mobile applications across diverse industries.
 My background includes building amazing software solutions and tools, cloud-based infrastructures, integrating AI-driven solutions, and optimizing system performance to create innovative user experiences.
-I’m passionate about continuous learning and staying current with the latest developments technology.
-This dedication ensures I can tackle complex challenges and drive impactful results for any team or project I’m involved with.
+I’m passionate about continuous learning and staying current with the latest developments technology. This dedication ensures I can tackle complex challenges and drive impactful results for any team or project I’m involved with.
 
 _______________________________________________________________________________
 
-## 👨‍💻 Experience {#experience}
+## 💻 Experience {#experience}
 
-### A.I. Software Engineer {#raisga_2023}
+### Senior Software Engineer (AI) {#raisga_2023}
 
 <!-- 
     Stack: React, ReactNative, Remix, Svelte, Ollama, Pinokio, HuggingFace, TypeScript
@@ -32,7 +26,7 @@ _______________________________________________________________________________
 ![raisga](media/images/raisga.png)
 [__Raisga__](https://www.raisga.com/){:target="_blank"}
 `May 2023 - Present`
-_Business Owner - Marietta, Georgia (2 years)_
+_Business Owner - Marietta, Georgia_
 
 > - Leading the development and integration of advanced AI technologies such as Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) systems, to enhance product offerings and create new market opportunities.
 
@@ -50,7 +44,7 @@ _Business Owner - Marietta, Georgia (2 years)_
 
 > - Keeping up with the latest developments in AI research and technologies to incorporate cutting-edge solutions into existing and future projects.
 
-### Senior Software Engineer {#opus1io_2024}
+### Senior Software Engineer (Full Stack) {#opus1io_2024}
 
 <!-- 
     Stack: React, Python, Rust, AWS, GraphQL, TypeScript
@@ -67,11 +61,11 @@ _Full-time - (Remote) Palo Alto, California (4 months)_
 
 > - Mentored a team of 4 junior developers, resulting in a 40% improvement in code quality and a 35% reduction in production bugs.
 
-> - Develop and integrate new features, particularly within form functionalities. Enhance user interface and experience by adding user-requested features and improving form interactions.
+> - Developed and integrate new features, particularly within form functionalities. Enhance user interface and experience by adding user-requested features and improving form interactions.
 
-> - Update existing APIs and integrate new APIs as required by the project needs. Ensure that all integrations are secure, efficient, and scalable.
+> - Updated existing APIs and integrate new APIs as required by the project needs. Ensure that all integrations are secure, efficient, and scalable.
 
-> - Document code changes, refactoring, and new implementations thoroughly to assist future development efforts and ensure continuity.
+> - Documented code changes, refactoring, and new implementations thoroughly to assist future development efforts and ensure continuity.
 
 ### Frontend Software Engineer {#allurion_2021}
 
@@ -105,7 +99,7 @@ code quality.
 
 > - Designed and maintained a comprehensive Style Guide, Development Documentation, and Troubleshooting Guides, ensuring consistency across projects and accelerating onboarding for new team members.
 
-### Cloud Software Engineer {#axiad_2020}
+### Software Engineer (Cloud) {#axiad_2020}
 
 <!-- 
     Stack: React.JS, ReactNative, Java, Redux, AWS, TypeScript
@@ -139,6 +133,78 @@ _Full-time - Santa Clara, California (1 year)_
 > - Experience with Java language using Jetty and the Spring Framework.
 
 > - Knowledge in Virtualization technologies (VirtualBox), creating virtual machines and provisioning environments.
+
+### Software Engineer (Lead / Mobile) {#vemidoc_2018}
+
+<!-- 
+    Stack: ReactNative, AWS, PHP, CodeIgnite, Quickblox
+-->
+
+![vemidoc](media/images/vemidoc.jpg)
+[__Vemidoc__](https://www.vemidoc.com){:target="_blank"}
+`Apr 2018 – Mar 2020`
+_Contract - Menlo Park, California (2 years)_
+
+> - Completed codebase conversion to React Native with feature parity.
+
+> - Defined the strategy of how the project would be implemented (documentation, technology, etc).
+
+> - Led the development of a React Native telemedicine app adopted by 5000+ patients, increasing virtual consultation bookings by 60% within the first six months.
+
+> - Implemented HIPAA-compliant security features, reducing data breach risks by 70% and passing all security audits on the first attempt.
+
+> - Integrated real-time video and chat functionality, increasing patient-doctor engagement by 35% and contributing to a $250k annual revenue growth.
+
+> - Mentored 3 junior engineers and guided their professional development through pair programming, code reviews, and knowledge-sharing sessions.
+
+> - Improved code quality and reduced bugs by 50%, which accelerated release cycles by 30%.
+
+> - Implemented an asynchronous wrapper for API calls for POST, PUT, DELETE and GET methods.
+
+> - Managed cloud infrastructure on AWS, leveraging services such as EC2, S3, and Lambda to ensure application scalability and reliability.
+
+> - Led back-end development in PHP and the CodeIgniter framework, establishing best coding practices and standards for robust, maintainable codebases.
+
+> - Integrated and optimized QuickBlox for real-time chat and video functionalities, enhancing end-user communication and collaboration features.
+
+> - Responsible for design and development of various React Native components such as tab bars, autocomplete address field, image picker, date picker, sign-in/out features, profile management, social media integration, and navigation using react-router.
+
+> - Implementation of push notifications to notify doctors of updates on appointments.
+
+### Software Engineer (Web / Automation) {#scarletbytes_2015}
+
+<!-- 
+    Stack: HTML5, CSS3, JS, PHP, Ruby, RedHat Linux, Cloudflare
+-->
+
+![scarlet bytes](media/images/scarletbytes.png)
+[__Scarlet Bytes__](https://www.scarletbytes.com){:target="_blank"}
+`Apr 2015 – Mar 2018`
+_Self-employed - Panama City, Panama (3 years)_
+
+> - Founded and scaled a web and mobile app development consulting company to $10K in annual revenue within 3 years, serving over 15 clients across various industries.
+
+> - Developed and launched enterprise-level websites and applications
+
+> - Implemented cloud-based microservices architecture, reducing system downtime by 60% and enabling the platform to handle a 10x increase in user traffic.
+
+> - Created business vision, strategy, policy, and partnership with external and internal stakeholders.
+
+> - Developed and maintained back-end services in PHP and Ruby, ensuring scalable and reliable application layers for enterprise clients.
+
+> - Configured and administered production environments on RedHat Linux, applying best practices in system security, performance optimization, and high availability.
+
+> - Integrated and optimized Cloudflare services for CDN, load balancing, and DDoS protection, enhancing site speed and security.
+
+> - Led end-to-end technical planning, including requirement analysis, solution design, and implementation for complex enterprise projects.
+
+> - Maintained thorough documentation of system architecture, infrastructure configurations, and development processes for knowledge transfer and audit compliance.
+
+> - Defined technical strategy and roadmap, improving project delivery speed by 35% and reducing development costs by 25% through efficient architecture and agile methodologies.
+
+_______________________________________________________________________________
+
+## 🧺 Additional Experience
 
 ### Co-Founder | CTO {#easyworking_2019}
 
@@ -182,7 +248,7 @@ _Self-employed - San Francisco Bay Area (2 years)_
 ![opus1.io](media/images/opus1io.png)
 [__Opus1.io__](https://www.opus1.io){:target="_blank"}
 `Jul 2019 – Feb 2020` 
-_Full-time - Palo Alto, California, (8 months)_
+_Full-time - Palo Alto, California (8 months)_
 
 > - Implemented stable ReactJS components and containers, and stand-alone, helper functions for multiple pages.
 
@@ -197,74 +263,6 @@ _Full-time - Palo Alto, California, (8 months)_
 > - Worked with JEST framework to write unit tests, and Selenium Webdriver to write end-to-end (E2E) tests.
 
 > - Configured Webpack to execute linters, magnifiers, pre/post-processors, tests, transpires, etc. based on build script.
-
-### Lead Software Engineer {#vemidoc_2018}
-
-<!-- 
-    Stack: ReactNative, AWS, PHP, CodeIgnite, Quickblox
--->
-
-![vemidoc](media/images/vemidoc.jpg)
-[__Vemidoc__](https://www.vemidoc.com){:target="_blank"}
-`Apr 2018 – Mar 2020`
-_Contract - Palo Alto, California (2 years)_
-
-> - Completed codebase conversion to React Native with feature parity.
-
-> - Defined the strategy of how the project would be implemented (documentation, technology, etc).
-
-> - Led the development of a React Native telemedicine app adopted by 5000+ patients, increasing virtual consultation bookings by 60% within the first six months.
-
-> - Implemented HIPAA-compliant security features, reducing data breach risks by 70% and passing all security audits on the first attempt.
-
-> - Integrated real-time video and chat functionality, increasing patient-doctor engagement by 35% and contributing to a $250k annual revenue growth.
-
-> - Mentored 3 junior engineers and guided their professional development through pair programming, code reviews, and knowledge-sharing sessions.
-
-> - Improved code quality and reduced bugs by 50%, which accelerated release cycles by 30%.
-
-> - Implemented an asynchronous wrapper for API calls for POST, PUT, DELETE and GET methods.
-
-> - Managed cloud infrastructure on AWS, leveraging services such as EC2, S3, and Lambda to ensure application scalability and reliability.
-
-> - Led back-end development in PHP and the CodeIgniter framework, establishing best coding practices and standards for robust, maintainable codebases.
-
-> - Integrated and optimized QuickBlox for real-time chat and video functionalities, enhancing end-user communication and collaboration features.
-
-> - Responsible for design and development of various React Native components such as tab bars, autocomplete address field, image picker, date picker, sign-in/out features, profile management, social media integration, and navigation using react-router.
-
-> - Implementation of push notifications to notify doctors of updates on appointments.
-
-### Web Enterprise Architect {#scarletbytes_2016}
-
-<!-- 
-    Stack: HTML5, CSS3, JS, PHP, Ruby, RedHat Linux, Cloudflare
--->
-
-![scarlet bytes](media/images/scarletbytes.png)
-[__Scarlet Bytes__](https://www.scarletbytes.com){:target="_blank"}
-`Apr 2016 – Mar 2019`
-_Self-employed - Panama City, Panama (3 years)_
-
-> - Founded and scaled a web and mobile app development consulting company to $10K in annual revenue within 3 years, serving over 15 clients across various industries.
-
-> - Developed and launched enterprise-level websites and applications
-
-> - Implemented cloud-based microservices architecture, reducing system downtime by 60% and enabling the platform to handle a 10x increase in user traffic.
-
-> - Created business vision, strategy, policy, and partnership with external and internal stakeholders.
-
-> - Developed and maintained back-end services in PHP and Ruby, ensuring scalable and reliable application layers for enterprise clients.
-
-> - Configured and administered production environments on RedHat Linux, applying best practices in system security, performance optimization, and high availability.
-
-> - Integrated and optimized Cloudflare services for CDN, load balancing, and DDoS protection, enhancing site speed and security.
-
-> - Led end-to-end technical planning, including requirement analysis, solution design, and implementation for complex enterprise projects.
-
-> - Maintained thorough documentation of system architecture, infrastructure configurations, and development processes for knowledge transfer and audit compliance.
-
-> - Defined technical strategy and roadmap, improving project delivery speed by 35% and reducing development costs by 25% through efficient architecture and agile methodologies.
 
 ### Mobile Application Developer {#courious_2017}
 
@@ -299,8 +297,8 @@ _Internship - Fremont, California (8 months)_
 
 ![ubicate](media/images/ubicate.png)
 [__Ubicate__](https://github.com/jraleman/ubicate){:target="_blank"}
-`Sep 2015 - Dec 2016`
-_Co-Founder - Panama City, Panama (1 year, 4 months)_
+`Sep 2015 - Sep 2016`
+_Co-Founder - Panama City, Panama (1 year)_
 
 > - Designed and developed a website and hybrid applications using WordPress as a core platform, integrating advanced plugins and themes to enhance functionality and user engagement.
 
@@ -328,7 +326,7 @@ _Co-Founder - Panama City, Panama (1 year, 4 months)_
 
 ![universidad latina](media/images/ulat.jpeg)
 [__Latin University of Panama__](https://ulatina.edu.pa/){:target="_blank"}
-`Jun 2015 – Sep 2015`
+`May 2015 – Aug 2015`
 _Part-time - Panama City, Panama (4 months)_
 
 > - Robotics programming, design and fabrication of production fixtures. Wrote programs for new robot installation of 3 & 6 axis robots
@@ -374,7 +372,7 @@ _Full-time - Panama City, Panama (6 months)_
 
 _______________________________________________________________________________
 
-## 👨‍🎓 Education {#education}
+## 📚 Education {#education}
 
 `2021 – 2022`
 ![upc](media/images/upc.png)
@@ -418,14 +416,67 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
-## 👨‍🚀 Skills {#skills}
+## 📑 Certificates {#certificates}
+
+### Coursera
+
+> - Hebrew University of Jerusalem
+    - From NAND to Tetris
+> - Rice University
+    - An Introduction to Interactive Programming in Python
+    - Nanotechnology - The Basics
+    - Principles of Computing
+> - Berklee College of Music
+    - Developing Your Musicianship
+    - Introduction to Music Production
+    - Songwriting
+> - Technical University of Denmark
+    - Organic Solar Cells - Theory and Practice
+> - École Polytechnique Fédérale de Lausanne
+    - Comprendre les Microcontroleurs
+> - Georgia Institute of Technology
+    - Control of Mobile Robots
+> - University of Maryland
+    - Developing Innovative Ideas for New Companies
+    - Innovation for Entrepreneurs - From Idea to Marketplace
+    - New Venture Finance - Startup Funding for Entrepreneurs
+    - Programming Mobile Applications for Android Handheld Systems
+    - Usable Security
+    - Internet History, Technology, and Security
+> - University of New Mexico
+    - Web Application Architectures
+> - Stanford University
+    - Machine Learning
+> - Universitat Autònoma de Barcelona
+    - Sistemas Digitales - De las puertas logicas al procesador
+> - University of Washington
+    - The Hardware-Software Interface
+> - CalArts
+    - Introduction to Typography
+> - Johns Hopkins University
+    - Single Page Web Applications with AngularJS
+
+### edX
+
+> - The LinuxFoundationX
+    - LFS101x.2 - Introduction to Linux
+> - MongoDB University
+    - M101x - Introduction to MongoDB using the MEAN Stack
+> - Massachusetts Institute of Technology
+    - 6,002x - Circuits and Electronics
+> - University of Texas at Austin
+    - UT,6,01x - Embedded Systems
+
+_______________________________________________________________________________
+
+## 🔧 Skills {#skills}
 
 ### Tools & Technologies {#skills_tech}
 
 - Programming Languages
-    - JavaScript, TypeScript, Python, PHP, Ruby, Java, C, C++, (some) x86 Assembly
+    - JavaScript, TypeScript, Python, PHP, Ruby, Java, C, C++, C#, .NET, (some) x86 Assembly
 - Front-End & Mobile
-    - HTML5, CSS3, ReactJS, Redux, VueJS, Svelte, jQuery, React Native, PhoneGap (Hybrid Apps), Kotlin, Swift4
+    - HTML5, CSS3, ReactJS, Redux, VueJS, AngularJS, Svelte, jQuery, React Native, PhoneGap (Hybrid Apps), Kotlin, Swift4
 - Back-End & APIs
     - NodeJS, ExpressJS, Apollo, GraphQL, Postman, CodeIgniter
 - Databases
@@ -443,7 +494,7 @@ _______________________________________________________________________________
 - Robotics & Automation:
     - MELFA (Mitsubishi Robot Programming Language), PLC (Festo, Allen-Bradley), Pneumatics, Hydraulics
 
-### Interpersonal Skills {#skills_soft}
+### 🕊️ Interpersonal Skills {#skills_soft}
 
 - Teamwork & Collaboration
     - Ability to work seamlessly with cross-functional teams, build rapport quickly, and foster a supportive, cooperative environment.
@@ -458,7 +509,7 @@ _______________________________________________________________________________
 - Self-Learning & Curiosity
     - Driven by continuous self-improvement, staying current with emerging technologies, and proactively seeking new knowledge and skills.
 
-### Other Skills {#skills_misc}
+### 👾 Other Skills {#skills_misc}
 
 - Over 3K day streak in Duolingo
 - Able to speedrun Super Mario 64 in less than 20 minutes
