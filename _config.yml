@@ -1,4 +1,63 @@
+# Site settings
+title: "Resume jraleman"
+description: "My resume written as a Jekyll site :)"
+
+# Build settings
 markdown: kramdown
-style: jraleman
-# style: kjhealy
-# style: davewhipp
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    "J. Ramon A. Bendiburg"
+resume_title:                   "Senior Software Engineer"
+
+# used for the contact button in _layouts/resume.html
+resume_contact_email:           "your.email@address.com"
+
+# the next two items are used for schema itemprops in _layouts/resume.html
+resume_contact_telephone:       "404-6769"
+resume_contact_address:         "Atlanta, Georgia"
+
+resume_header_contact_info:     "404-6769 • your.email@address.com"
+display_header_contact_info:    "false"
+
+resume_header_intro: "<p>Experienced software engineer delivering scalable web, mobile, an AI applications. I’ve helped builing systems serving millions of users, saved companies a bit over $750K+ through optimized engineering, and mentored teams to 40% code quality improvements</p>"
+
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+# resume_looking_for_work:        "yes"
+
+# Decide which sections to use
+# comment out to hide
+resume_section_experience:      true
+resume_section_education:       true
+resume_section_projects:        true
+resume_section_skills:          true
+resume_section_recognition:     false
+resume_section_links:           false
+resume_section_associations:    false
+resume_section_interests:       false
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  resume_github_url:            "https://github.com/jraleman/"
+  # resume_twitter_url:           "http://twitter.com/jraleman"
+  # resume_dribbble_url:          "https://dribbble.com/jraleman"
+  # resume_facebook_url:          "insert Facebook URL here"
+  resume_linkedin_url:          "https://linkedin.com/in/jraleman"
+  # resume_instagram_url:         "insert your Instagram URL here"
+  resume_website_url:           "http://jraleman.com"
+  resume_medium_url:            "https://jraleman.medium.com/@jraleman"
+resume_print_social_links:      false
+
+# Design settings
+resume_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts
