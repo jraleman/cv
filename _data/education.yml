@@ -1,7 +1,40 @@
 # Degree
+
+# Quantum
 - degree: Postgraduate Degree in Quantum Engineering
   uni: Universitat Politècnica de Catalunya
   year: 2022
-  # awards:
-  #   - award: 
-  # summary: 
+  location: Barcelona, Spain (Online)
+
+# 42SV
+- degree: Certificate of Software Architect in Digital Technologies
+  uni: 42 School Silicon Valley
+  year: 2019
+  location: California, USA
+
+# MBA
+- degree: Master's of Business Administration (M.B.A) in Management
+  uni: Universidad Latina de Panama
+  year: 2018
+  location: (Online) Panama City, Panama
+
+# Mechatronics
+- degree: Bachelor's Degree of Science (B.Sc) in Mechatronics Engineering
+  uni: Universidad Latina de Panama
+  year: 2015
+  location: Panama City, Panama
+  no_print: true
+
+# Music
+- degree: Professional Studies in Music (Mention - Electric Bass)
+  uni: Academia de Música de Panamá
+  year: 2014
+  location: Panama City, Panama
+  no_print: true
+
+# High School
+- degree: High School Diploma with Specialty in Science and Informatics
+  uni: Panamerican School
+  year: 2010
+  location: Panama City, Panama
+  no_print: true

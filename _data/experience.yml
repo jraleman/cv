@@ -1,11 +1,67 @@
 # Jobs
-# VP of Global Communications
-- company: Reliable AI Services LLC  (RAISGA)
+
+# Raisga
+- company: Reliable AI Services LLC (RAISGA)
+  website: https://raisga.com/
   position: Senior Software Engineer (AI)
-  duration: May 2023 &mdash; Present
+  duration: May 2023 - Present
+  location: (Hybrid) Atlanta, GA
   summary: RAISGA specializes in innovative AI-driven solutions, focusing on creating secure and scalable AI services and products for various markets.
     <ul>
-    <li>Leading AI agent using LLM, MCP, RAG modules, enhancing products and creating market opportunities.</li>
-    <li>Integrating Snowflake for AI Agent testing, ensuring production security and tailored functionality.</li>
-    <li>Ownership and refactoring of a NextJS app (React with TypeScript), having 30% reduction in tech debt, improving 15% in system performance.</li>
-    </ul?
+      <li>Leading AI agent using LLM, MCP, RAG modules, enhancing products and creating market opportunities.</li>
+      <li>Integrating Snowflake for AI Agent testing, ensuring production security and tailored functionality.</li>
+      <li>Ownership and refactoring of a NextJS app (React with TypeScript), having 30% reduction in tech debt, improving 15% in system performance.</li>
+    </ul>
+
+# Allurion
+- company: Allurion Technologies Inc. (ALLURION)
+  website: https://allurion.com/
+  position: Frontend Software Engineer
+  duration: May 2021 - Feb 2023
+  location: (Remote) Boston, MA
+  summary: ALLURION focuses on healthcare innovations, delivering high-performance digital solutions to enhance user engagement and satisfaction.
+    <ul>
+      <li>Maintained Allurion Insights, a high-performance React app, boosting user retention by 15%.</li>
+      <li>Engineered a video consultation system, saving $750K annually.</li>
+      <li>Collaborated for 4 major releases, boosting customer satisfaction by 20%.</li>
+    </ul>
+
+# Axiad
+- company: Axiad IDS, Inc. (AXIAD)
+  website: https://axiad.com/
+  position: Software Engineer
+  duration: Mar 2020 - Apr 2021
+  location: Santa Clara, CA 
+  summary: AXIAD provides enterprise identity management cloud solutions, ensuring secure, reliable authentication.
+    <ul>
+      <li>Implemented AWS-based micro-services for secure identity management.</li>
+      <li>Supported 1M monthly logins with 99.80% uptime with React Native and Java solutions (Jetty).</li>
+      <li>Enhanced UI components for compliance with WCAG, improving usability and security.</li>
+    </ul>
+
+# Vemidoc
+- company: VeMiDoc, Inc. (VEMIDOC)
+  website: https://vemidoc.com/
+  position: Software Engineer
+  duration: Apr 2018 - Mar 2020
+  location: (Remote) El Paso, TX
+  summary: VEMIDOC specializes in telemedicine solutions, providing innovative mobile applications for remote healthcare services.
+    <ul>
+      <li>Led React Native app development, increasing virtual consultations by 60%.</li>
+      <li>Mentored a team, improving code quality and reducing bugs by 50%.</li>
+      <li>Introduced HIPAA-compliant features, significantly reducing data breaches.</li>
+    </ul>
+
+# Scarlet Bytes
+- company: Scarlet Solutions S.A. (SCARLET BYTES)
+  website: https://scarletbytes.com/
+  position: Software Engineer
+  duration: Apr 2015 - Mar 2018
+  location: (Remote) Panama City, Panama
+  summary: Consulting company based in Panama, designing and developing state-of-the-art websites, web and mobile applications, and comprehensive corporate identity solutions. 
+    <ul>
+      <li>Scaled a small web and mobile app development consulting company to $65K in annual revenue within 2 years.</li>
+      <li>Deployed enterprise-level websites, applications, using technologies such as MEAN stack, serving clients across various industries.</li>
+      <li>Defined technical strategy and roadmap, improving project delivery speed by 35% and reducing development costs by 25% through efficient architecture and agile methodologies.</li>
+    </ul>
+  no_print: true

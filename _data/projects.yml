@@ -1,9 +1,16 @@
 # Projects
-# uncomment the urls if you wish to display them, and add your own URL
 
 # pasiero.ai
 - project: pasiero.ai
   role: Founder & Primary Developer
-  duration: 2025 &mdash; Present
-  # url: "#"
-  description: 
+  duration: 2025
+  url: https://pasiero.ai
+  description: A community-driven platform for creating personal AI agents with persistent memory and offline capabilities, respecting privacy and autonomy
+
+# open-libft
+- project: open-libft
+  role: Primary Developer
+  duration: 2017
+  url: https://github.com/jraleman/open-libft
+  description: An open source C library that incorporates useful functions, such as binary trees, linked lists, stacks, arrays, bit manipulation.
+  no_print: true
