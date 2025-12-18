@@ -14,14 +14,14 @@ resume_name:                    "J. Ramon A. Bendiburg"
 resume_title:                   "Senior Software Engineer"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "your.email@address.com"
+resume_contact_email:           "my.email@address.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "404-6769"
+resume_contact_telephone:       "404-4040"
 resume_contact_address:         "Atlanta, Georgia"
 
 resume_header_contact_info:     "404-6769 • your.email@address.com"
-display_header_contact_info:    "false"
+display_header_contact_info:    true
 
 resume_header_intro: "<p>Experienced software engineer delivering scalable web, mobile, an AI applications. I’ve helped builing systems serving millions of users, saved companies a bit over $750K+ through optimized engineering, and mentored teams to 40% code quality improvements</p>"
 

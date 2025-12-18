@@ -11,13 +11,11 @@ const CHEAT_CODE = [
   "b",
   "a",
 ];
-const REDIRECT_URL = "https://github.com/jraleman/";
 
 // =================
 
 let count = 0;
 const code = CHEAT_CODE;
-const url = REDIRECT_URL;
 
 const keyHandler = function(e) {
   if (code.indexOf(e.key) < 0 || e.key !== code[count]) {
@@ -27,7 +25,7 @@ const keyHandler = function(e) {
   count += 1;
   if (code.length === count) {
     count = 0;
-    window.open(URL)
+    window.alert('Now try this on my website :)')
   }
 };
 
